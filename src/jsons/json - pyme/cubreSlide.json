@@ -1,0 +1,81 @@
+[
+  {
+    "id": 0,
+    "alt": "fuego Caja",
+    "img": "fuegoCaja.png",
+    "titulo": "¿Cómo lo hacemos?",
+    "texto": "Dándote cobertura ante alguna de estas situaciones:",
+    "lista": [
+      {
+        "id": 0,
+        "texto": "Incendio de tu mobiliario y mercadería."
+      },
+      {
+        "id": 1,
+        "texto": "Robo de tus bienes y mercadería."
+      },
+      {
+        "id": 2,
+        "texto": "Equipos electrónicos cubiertos por robo, incendio o accidente."
+      },
+      {
+        "id": 3,
+        "texto": "Daño a cristales verticales."
+      },
+      {
+        "id": 4,
+        "texto": "Demandas de terceros por daños (Responsabilidad civil)"
+      }
+    ],
+    "textFooter": "Además, nos hacemos cargo de los gastos ocasionados por un robo, remoción de escombros, actos de vandalismo y daños por granizo.",
+    "listPosition": "text-left"
+  },
+  {
+    "id": 1,
+    "alt": "PC",
+    "img": "pc.png",
+    "titulo": "Un seguro a tu medida",
+    "texto": "Vos sabés mejor que nadie lo que necesitás proteger. Elegí la cobertura que querés sumar:",
+    "lista": [
+      {
+        "id": 0,
+        "texto": "Incendio de la construcción del inmueble."
+      },
+      {
+        "id": 1,
+        "texto": "Daños por agua a la mercadería y mobiliario."
+      },
+      {
+        "id": 2,
+        "texto": "Cobertura de robo para la recaudación."
+      },
+      {
+        "id": 3,
+        "texto": "Responsabilidad civil para marquesinas, ascensores o alimentos."
+      }
+    ],
+    "listPosition": "text-left"
+  },
+  {
+    "id": 2,
+    "alt": "Vidrio Roto",
+    "img": "brokenGlass.png",
+    "titulo": "Más prevenís, menos pagás…",
+    "texto": "Te ofrecemos un descuento preferencial si contás con alguna de estas medidas de seguridad:",
+    "lista": [
+      {
+        "id": 0,
+        "texto": "Sistema de alarmas"
+      },
+      {
+        "id": 1,
+        "texto": "Cámaras de seguridad monitoreadas"
+      },
+      {
+        "id": 2,
+        "texto": "Personal de vigilancia"
+      }
+    ],
+    "listPosition": "text-left"
+  }
+]

@@ -1,0 +1,24 @@
+{
+    "collapse": true,
+    "lista": [
+        {
+            "id":0,
+            "titulo": "Robos",
+            "multipleTexts": [{
+                "id": 1,
+                "texto":"Generalmente un ladrón intenta camuflarse en el tumulto y actúa aprovechándose de la distracción. Por eso es importante que estés bien atento en la calle, consciente de tu entorno."
+            }, {
+                "id":2,
+                "texto":"Tratá de tener a mano en tu bolso o cartera aquello que sabés que vas a necesitar. De esta forma evitás andar revolviendo mientras caminás, situación que los ladrones aprovechan para robar."
+            },
+            {
+                "id":3,
+                "texto":"Asimismo, si vas a sacar algún objeto de valor, recordá hacerlo en un lugar cerrado y no en plena calle."
+            },
+            {
+                "id":4,
+                "texto":"Evitá concurrir al cajero automático en horarios nocturnos o en zonas poco seguras. Si vas a viajar, colocale candados con combinación a tus valijas y en lo posible embalá el equipaje."
+            }]
+        }
+    ]
+}

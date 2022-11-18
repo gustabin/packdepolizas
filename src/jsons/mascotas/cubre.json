@@ -1,0 +1,9 @@
+{
+    "alt": "Chica con Perro",
+    "texto": "¿Qué te cubrimos?",
+    "className": "object-cover object-top",
+    "imgPrincipal": "Fondo Mascotas Que te cubrimos.png",
+    "imgDesktop": "Fondo Mascotas Que te cubrimos.png",
+    "classNameDesktop": "object-right",
+		"mascotas": true
+}

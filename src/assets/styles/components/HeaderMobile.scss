@@ -1,0 +1,21 @@
+.menu__desplegado {
+    /*max-height: 0;*/
+    max-width: 0;
+    overflow: hidden;
+    transition: max-width 0.2s ease-out;
+}
+
+.contenido{
+    /*max-height: 0;*/
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.2s ease-out;
+}
+
+.menu__desplegado {
+    top: 3.5rem;
+    z-index: 100;
+    background-color: rgba($color: #ffffff, $alpha: 0.98);
+    border-left-color: rgba($color: #fcbe6b, $alpha: .5);
+    /*background-color: rgba($color: rgb(252,190,107), $alpha: 0.9);*/
+}

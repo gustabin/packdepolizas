@@ -1,0 +1,59 @@
+[
+  {
+    "id": 0,
+    "children": [
+      {
+        "texto": "Si se rompió la cerradura o perdiste las llaves, ¡no te vas a quedar afuera o encerrado!.*"
+      },
+      {
+        "texto": "No queremos que tu negocio se inunde, Por eso, si se rompió una cañería, llave u otra instalación fija de agua a la vista, te vamos a ayudar a repararlo.*"
+      },
+      {
+        "texto": "¿Sin luz en el negocio? Llamanos y arreglamos la falla en las instalaciones eléctricas.*"
+      },
+      {
+        "texto": "Te cubrimos la rotura de vidrios verticales que formen parte del cerramiento de tu negocio.*"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "children": [
+      {
+        "texto": "Cambios de lámparas (comunes o dicroicas), porta lámparas, llaves de luz y toma de enchufes."
+      },
+      {
+        "texto": "Reemplazar cueritos de las canillas, vastagos, depósito de inodoro y obturador."
+      },
+      {
+        "texto": "Apertura de puertas y cerraduras de tu comercio."
+      },
+      {
+        "texto": "Reponer vidrios verticales internos."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "children": [
+      {
+        "texto": "Seguridad y vigilancia por un período de 72 horas máximo. Podés usarlo hasta 3 veces durante el año de vigencia de la póliza."
+      },
+      {
+        "texto": "Traslado, guarda, custodia de muebles, alquiler de computadora y accesorios, alquiler de equipo electrógeno si te quedaste sin suministro eléctrico, y otros servicios que te van a ayudar a reestablecer el funcionamiento de tu negocio"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "children": [
+      {
+        "texto": "Telefonicamente con profesionales en temas legales y contables relacionados con tu negocio. Disponés de hasta 5 asesoramientos anuales."
+      },
+      {
+        "titulo": "¿NOS WHATSAPPEAMOS?",
+        "texto": "Vas a contar con un asesor personalizado a travès de Whatsapp para que puedas gestionar todo lo que necesites de tu seguro. Tranquilo, nosotros te agregamos..."
+      }
+    ]
+  }
+]

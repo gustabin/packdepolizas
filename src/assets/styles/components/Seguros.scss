@@ -1,0 +1,7 @@
+@import '../Vars.scss';
+
+.productos__header {
+  background-image: linear-gradient(90deg, $fondoLast1, $fondoLast2);
+  font-family: $font, Arial, Helvetica, sans-serif;
+  font-weight: 700;
+}

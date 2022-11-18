@@ -1,0 +1,7 @@
+{
+    "imgPrincipal":"personaMirando.jpg",
+    "imgDesktop": "personaMirandoDesktop.jpg",
+    "alt":"Persona Mirando",
+    "texto":"¿Qué te cubrimos?",
+    "className":"object-cover object-top"
+}

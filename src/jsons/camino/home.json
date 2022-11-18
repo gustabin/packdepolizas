@@ -1,0 +1,10 @@
+{
+    "altPrincipal":"Chica Caminando",
+    "alt":"Camino Protegido",
+    "texto":"Vayas donde vayas,",
+    "texto2":"estás seguro",
+    "className":"object-center",
+    "imgPrincipal":"personaCaminando.jpg",
+    "img":"seguroCaminoWhite.png",
+    "key": "camino"
+}

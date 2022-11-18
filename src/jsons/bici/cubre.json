@@ -1,0 +1,7 @@
+{
+    "imgPrincipal":"chicaBici.jpg",
+    "imgDesktop": "chicaBiciDesktop.jpg",
+    "alt":"Chica en Bici",
+    "texto":"¿Qué te cubre?",
+    "className":"object-cover object-top"
+}

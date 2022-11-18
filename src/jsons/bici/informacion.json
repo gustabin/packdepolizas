@@ -1,0 +1,27 @@
+{
+    "hasCobrar": true,
+    "collapse": true,
+    "lista": [{
+        "id": 0,
+        "titulo": "Robos",
+        "multipleTexts": [{
+            "id": 1,
+            "texto": "Cuando dejes la bici en la calle asegurala a un punto fijo y firme al suelo. Usá una cadena, cable de acero con candado o traba con cerrojo."
+        }, {
+            "id": 2,
+            "texto": "Evitá detenerte en lugares desconocidos. Lo ideal es que tengas en claro previamente el recorrido que vas a hacer, pero si no es así y te perdiste, pedí orientación en estaciones de servicio o a la policía."
+        }]
+    },
+    {
+        "id": 1,
+        "titulo": "Accidentes",
+        "multipleTexts": [{
+            "id": 1,
+            "texto": "No vayas con auriculares puestos ni revises el celular."
+        }, {
+            "id": 2,
+            "texto": "Transitá por bicisendas o ciclovías. Es más seguro y ¡vas a disfrutar más de tu viaje!"
+        }]
+    }
+]
+}

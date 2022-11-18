@@ -1,0 +1,18 @@
+{
+    "hasCobrar": true,
+    "collapse": true,
+    "lista": [{
+        "id": 0,
+        "titulo": "Robos",
+        "multipleTexts": [{
+            "id": 1,
+            "texto": "Tratá de tener a mano en tu bolso o cartera aquello que sabés que vas a necesitar. Evitá andar revolviendo mientras caminás."
+        }, {
+            "id": 2,
+            "texto": "Si vas a sacar algún objeto de valor, recordá hacerlo en un lugar cerrado y no en plena calle."
+        }, {
+            "id": 3,
+            "texto": "Si pasás por un lugar muy concurrido llevá la mochila adelante así no la perdés de vista."
+        }]
+    }]
+}

@@ -1,0 +1,23 @@
+{
+    "collapse": true,
+    "lista": [{
+        "id": 0,
+        "titulo": "Cuidados para que esté saludable",
+        "multipleTexts": [{
+                "id": 1,
+                "texto": "Sacalo a dar un paseo 3 veces al día."
+            }, {
+                "id": 2,
+                "texto": "Enseñale las reglas de casa para que aprenda todo lo que puede o no hacer."
+            },
+            {
+                "id": 3,
+                "texto": "Llevá al día sus vacunas y elegí un veterinario de confianza para cuidar su salud."
+            },
+            {
+                "id": 4,
+                "texto": "Cocinale cada tanto su plato preferido, además de darle regularmente el alimento balanceado que necesite."
+            }
+        ]
+    }]
+}

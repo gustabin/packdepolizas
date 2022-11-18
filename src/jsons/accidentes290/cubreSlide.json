@@ -1,0 +1,20 @@
+[{
+    "id": 0,
+    "alt": "Indemnizacion",
+    "img": "Indemnizacion.png",
+    "texto": "Tu familia o las personas que designes, van a acceder a una indemnización económica en caso de que fallezcas producto de un <span class='montserrat-m'>accidente</span>."
+},
+{
+    "id": 1,
+    "alt": "Silla de Ruedas",
+    "img": "Silla de ruedas.png",
+    "texto": "Vas a estar cubierto si sufrís una <span class='montserrat-m'>invalidez permanente</span> a causa del incidente."
+},
+{
+    "id": 2,
+    "alt": "calendario",
+    "img": "calender.png",
+    "titulo": "¿El monto de mi cobertura se actualiza?",
+    "texto": "Sí. Se actualiza mediante la Cláusula de Ajuste Anual por Salario Mínimo Vital y Móvil."
+}
+]

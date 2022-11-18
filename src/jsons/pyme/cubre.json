@@ -1,0 +1,7 @@
+{
+  "goTo": ".noCubre",
+  "alt": "Chica Concentrada",
+  "texto": "¿Qué te cubrimos?",
+  "imgPrincipal": "./../assets/static/chicaConcentrada.jpg",
+  "imgDesktop": "chicaConcentradaDesktop.jpg"
+}

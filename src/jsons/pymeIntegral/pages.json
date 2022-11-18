@@ -1,0 +1,48 @@
+[{
+        "id": 0,
+        "title": "QUE NO TE CUBRE",
+        "path": "/home/noCubre",
+        "className": ".noCubre",
+        "hasFooter": true,
+        "cubreParent": true
+    },
+    {
+        "id": 1,
+        "title": "ASISTENCIAS",
+        "path": "/home/asistencia",
+        "className": ".asistencias",
+        "hasFooter": true
+    },
+    {
+        "id": 2,
+        "title": "MAS PREVENÍS",
+        "pathDesktop": "/home/noCubre/irPreventips",
+        "path": "/home/noCubre/:id",
+        "noOpcionMenu": true,
+        "className": ".main__preventips",
+        "param": "sectionPrenvetips"
+    },
+    {
+        "id": 3,
+        "title": "PREVENTIPS",
+        "path": "/home/informacion",
+        "className": ".informacion",
+        "hasFooter": true,
+        "toPreventips": true
+    },
+    {
+        "id": 4,
+        "title": "USAR EL SEGURO",
+        "path": "/home/cobrarSeguro",
+        "className": ".cobrar",
+        "hasFooter": true
+    },
+    {
+        "id": 5,
+        "title": "MÁS SEGUROS",
+        "path": "/home/cobrarSeguro/:id",
+        "className": ".seguros",
+        "param": "seguros",
+        "pathDesktop": "/home/seguros"
+    }
+]

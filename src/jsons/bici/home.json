@@ -1,0 +1,9 @@
+{
+    "imgPrincipal":"biciHome.jpg",
+    "img":"seguroBiciWhite.png",
+    "altPrincipal":"Bici",
+    "alt":"Seguro de Robo de Bici",
+    "texto":"Subite seguro XXX",
+    "className":"object-center",
+    "key": "bici"
+}

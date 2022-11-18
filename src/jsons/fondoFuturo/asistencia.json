@@ -1,0 +1,35 @@
+{
+		"title": "Aportes y ",
+		"titleSecond": "rescates de fondos.",
+		"linkConoce": "https://www.galiciaseguros.com.ar/segurosparatupyme/condicionesintegralpyme",
+		"fondoFuturo": true,
+    "body": [{
+            "id": 0,
+            "titulo": "",
+            "subtitulo": "Inversiones de tu fondo: Una cartera equilibrada que incluye bonos soberanos, letras del tesoro, obligaciones negociables, entre otros, de acuerdo con lo establecido en el Reglamento General de la Actividad Aseguradora punto 35.8.1. Vas a poder modificar el monto de tus aportes y su frecuencia cuando quieras. ¡Incluso realizar aportes extraordinarios en cualquier momento! Si al momento del retiro, elegís percibir una renta en lugar de retirar el fondo, este continuará incrementándose periódicamente de acuerdo a la rentabilidad obtenida por la compañía. Podés retirar una parte o la totalidad del fondo en cualquier momento. Solo tené en cuenta que podrías llegar a sufrir una quita si lo hacés antes de la edad de retiro que declaraste.",
+						"children": 4
+					},
+				{
+            "id": 1,
+            "titulo": "Asistencia Handyman",
+            "subtitulo": "Contás con 2 servicios anuales, con un tope de $4.000 c/uno y una garantía de 3 meses. Usalos para:",
+            "children": 4
+        },
+        {
+            "id": 2,
+            "titulo": "Eventos extremos",
+            "subtitulo": "Si tu comercio quedó seriamente dañado y no están garantizadas las condiciones de seguridad en él, contás con un tope de $5000 para usar en lo que quieras:",
+            "children": 3
+        },
+        {
+            "id": 3,
+            "titulo": "Revisión preventiva",
+            "children": 4
+        },
+        {
+            "id": 4,
+            "titulo": "Asesoramiento especializado",
+            "children": 1
+        }
+    ]
+}

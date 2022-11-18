@@ -1,0 +1,21 @@
+{
+    "titulo": "",
+    "texto": "Muchas veces un accidente se puede prevenir y está en nosotros tomas las precauciones necesarias para reducir las probabilidades de que ese lamentable hecho ocurra.",
+    "lista": [{
+            "id": 0,
+            "texto": "Siempre que viajes en transporte público, asegurate que el vehículo (colectivo, tren, taxi, remis, etc.) esté debidamente habilitado por la autoridad competente."
+        },
+        {
+            "id": 1,
+            "texto": "Si en cambio te trasladas en tu auto, es importante que lo tengas en buen estado, que le realices los mantenimientos correspondientes para garantizar tu seguridad y la de los pasajeros. Recordá respetar las normas de tránsito y lo más importante: ¡si bebiste, no conduzcas!"
+        },
+        {
+            "id": 2,
+            "texto": "Todos somos peatones en determinados momentos del día, así que es importante que nos manejemos adecuadamente en la vía pública."
+        },
+        {
+            "id": 3,
+            "texto": "Cumpliendo nuestras obligaciones y haciendo valer nuestros derechos, ponemos nuestro granito de arena para evitar accidentes."
+        }
+    ]
+}

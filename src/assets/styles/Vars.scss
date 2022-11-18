@@ -1,0 +1,31 @@
+$fondo:rgb(249, 248, 247);
+$fondoPrevencion: rgb(245, 243, 242);
+$fondoLast1:rgb(171, 25, 37);
+$fondoLast2:rgb(198, 55, 24);
+$fondoGray: rgb(240, 236, 235);
+$texto:rgb(109, 110, 113);
+$bullet:rgb(153, 153, 153);
+$button: rgb(172, 31, 45);
+$orangeGalicia: rgb(242, 104, 43);
+$orangePrevencion: rgb(250, 163, 43);
+$orangePrevencion2: rgb(246, 163, 22);
+$polizaViolet:rgb(47, 37, 62);
+$polizaGray:rgb(112, 111, 111);
+$footerBlue:rgb(39, 34, 62);
+$text-dark-gray:rgb(51, 55, 54);
+$fondo-dark-gray:rgb(210, 208, 202);
+$font:'montserrat';
+
+%basicText {
+  font-family: $font, Arial, Helvetica, sans-serif;
+  color: $button;
+}
+
+@mixin montserrat-b {
+  font-weight: 700;
+  font-family: $font, Arial, Helvetica, sans-serif;
+}
+
+.bg-gradient-red {
+  background-image: linear-gradient(90deg, #ab1925, #c63718);
+}

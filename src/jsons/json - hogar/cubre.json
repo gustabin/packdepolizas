@@ -1,0 +1,11 @@
+{
+    "imgPrincipal": "walkman.jpg",
+    "imgDesktop": "chicaAcostada.png",
+    "alt": "Chica Walkman",
+    "texto": "¿Qué te cubrimos?",
+    "hasLast": true,
+    "orangeText1": "El seguro",
+    "orangeText2": "lo armás vos.",
+    "bold": true,
+    "className": "object-none object-bottom"
+}

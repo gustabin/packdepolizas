@@ -1,0 +1,52 @@
+[{
+    "id":0,
+    "alt":"Ladron",
+    "img":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAH0AAACdCAYAAACZxHenAAAACXBIWXMAAC4jAAAuIwF4pT92AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAEaNJREFUeNrsXc2V28gRbvHpPlQEhOyDfRs6AROKQHQEg4lg6QhERbCYCISJYDkRCIxgOTdf/BaMwOTFB19k1KhaKhYb/QN0AyCn6z08SdQMAfRX/11d9ebbt2/iWuivf16k+Nd5fU3x7yn5kaS+ZopfPdbXjn1W1tcBP9/969/bw7Ws05tLBB3BneOV4J83Pdz6ub4qZAhghDKCHg5kAHaJUvtxZI/3hExQ1kywi6D7ATqrr9sOX7VH6aRqm1OCl8kM2NxrgwywiaDbAT1FoFcOQG+J7a3wOviQuvp5pG+QEv/A1pSAn1DUV14/SxVBV4O9wsu0oIOrU2SGlFw3Foy5HosPMCjolmAfUWVuxqoy0bFc4jUbO/iDgV4vFNjqtWaRHscMtMEXyfCaacDPhlL7vYOOUpE32Owj/l9+DXFx/a7SP1k0/MjnId61N9BRlRcNIddVgd3A6OsG8Pco9eVVgY4cXzTY7Ue0c5W4ckLwiwa1/4DrcLh40OsXBQn+ZWx2bWDw1w3Oay9SHwx0jTo/4ottxCsmdPiKBpV/X69PcVGg4wttFM7aEwJ+EJFoFJMrpP6xXqfsIkDHxEWpeInP9UusI8yNWnGjkPogwHsFvQHwqM7t1w9U+l1o4CeBAQfHJI2A2xGC+5l9fIfMMC5JbwD8GQGP9rudnf8SSuI7g472aMdizwh4GOC9ePU+1PsmAh5E1QO4D+zjL6QkbBjQMcmwUDhtEXA/wEMC55ELGWrX/kFHjvvEPl5eSsnQhTl3W/LRDWrXfkEn2TYeh5cRpiC0RC0qaVFjsOpb0tfMjm9j4iWotB8Q+BMMMPMZHnRU678wO76M0AQHvmSO3Y1C2waTdC7Rq+i49Uaw9num5pdBQcfYccHUehGx6FXNZ+zjPLSkrwxSH6kfNf9EPpph6OwfdLTldKv0MXrrg9HK8G9vks65Kar14aS9EqdJmxs0vf5ARynntjxK+fBOXStTOwl9g0i9SfvMNi8/sZDyJEr5aClvI4w2kr7qGiJECibtsM+xZXF74gN0GvzvYxXM6KV91Ql0rIihOfYI+PikHTDZNwhpK0nPYph2EbRhDt3cGXTYOiXHb6lqj3vl46TCIKzNoAPQ9QWe+X/q6ytT7dFjH7dDd6LidRsxEwJ4hkAvLLkp0riICiUI6281pgcon+blVRMp4eK88pLSQ4zNL8quS4I9dzg8UVE7P2mQYlAVUHT/rgb7DRboRRq/pD8yNU/BL6XEv/nLn/4OHPA7+QHIuKVxDS+XSDu2tTg9gPJyYGKiiOuiVF++Y1fVFyRtQHiPzMGbTsRp79QYll2fV58zNb8E0BPyYRWX6upj+HQSY/HrV/Xi+1GzE9AjXT9RDT6LoL8OOvHTIuivkCLoEfQTTz7S9dBZ7n3Lg/e4RtdDmHOnZw/3APqGBe8xbLsewFVHygvIvat6xoD0L+PBxIsGPBHnDRxhM2Y+aTgUB3vqpansJtJoAV+hIFPAj1KQf3SXauhmBNRbd+JIncEGDNfivMs0AJ7KfZWTlmKaFt2jHUITgTaORNkL1gvorI8cqvRCNE9LgmOyRax/HxxsOTNmKZrn3yi1dGPzQE13Yir9ox6oc4USLQcS6oAG0g5O0HaMJKojE/opRD8YQHwfnRXtv78YOxV2kyflSJTCZIKt24Si5GeiuVqW0jPG+ztkgugH2IVYAK6cIbuw/NVnNMeFrbA594ZtOQ7zSJlAeJqQeOESnCC4EmiXAcES6FYDCTs1BPYwD1XOQZXXDhmivBJg5cjOqfg5AbrNDFcpNNKH6mQ+vTX5J+pJcu5tx6+UM83lHFVB/v1CfTIH+jc0WZWInxtUKfls5uF2e2YevWrF0IN7qPpKRX8zzttKwmIApcBN3y60I+xLvUsVxhdN7uDJl/pfff0XmYBOKx5isfsmyYwl0V4vAOMJI2rnpwpNKX9fqviqV9AR7LU4nzfisgCVINORiWZIFNds5IDSGe3S5PwY700BwvekZrAtw7ceYtjGe9dNU+xqw7RxPmukw21s02cutDOYhhMfwtanwDWTQN96XLdWQ5GcQNdsyhyJs1UyANpI6taHGhvQc3fJnjWZAc6AutDOacyHS3KmaRrT2nRDorqp3XJNPoyaAZh/89FRw1l76ZqdtA+2mscF9Ep4ntVCul3Yqr0nX7GqZ4leWT7/XpowdOKqDvflw/teCiRs1sUKdGw4+8kn4Jo4f2kR3slcfzFEIgeZNbN0ZINoKgS+ZMxmNeXSCDp+eUVAOCJHVYEX1mbrUHJ4Hlr9E/W9svBRetFICmyA3pnuaQM6d956n5mKz7C0sJWw2LlP6Xe496MYYJtZoYWN+NiAzmut3rlyL0k+TFlYdWBef6WTVuTsTJhz/VL6izaShlItt5RvDKo7N0k0MV0JiWwE884rtPO7jtIOx82T1qDjF/6HcrPt6EeSwHENWfZENZaGaGJl+H5p+62SGGhSVobIQn5nrgOIxOZLx5DV2V+p7wWMR2vb3+ve1wQ6PPBvLvEgMsqaPUSXpE2OXRVMKjgzgLXF79o0eOBrAzhPyIiF4d119Wptsm7GGTmoSb/a4mQCnduLdwY1pvIomwAQwn4feY8vv7HIJZikf4/edIGMsrL5WZOmCJSptI6U6vtTIB90zaFMoJdEeoy2QmH/qX1tTD6gKaClQbcdOX9KAG2Tt1dqBc29ck34ZjRXLHml8leMzZ/Y2mt/3gQ6Tchov0ihFY5oS51bhROJvWvL+Y52mjKV9SaGRrNZ16s5aI17g2mxFlDTUWWX1iQZe+m0DeBAoBHQYXwvTicTCVzg0uG7Nsis8F0P4rTbknxW2TMv8wA4PG8CYVPbvAFqmLOJi4ZfKxtwcwbdJWygNyp8VHtgayx4+XsOPLS/bPFdKwyb7hHoewKQa2iXKwAHafRyBhBNAT1RPGs7ZpPTW4NHKFgc2UR8O9NreQ+otfp5BEsS3dWfOSdDEJCiI5MvFabnQ4CUcM7MUqLBoeL4NT2Pi6RXBq7UMYEX4BUSn/d9nr7h+O99oD2AuYPgWZsSn+1HqK38JcSJVwT+idmuvjtc8hDvKcToURKB/FhfX3sLPkHnanYTSAozxmCrvqSdJF8oo2eB7lMKt1EqiQ/QD45fumZgwAOXvpwPZpN568u+pJ0nfXLfu2i4XjwqOFp474nB5JpBV3jfick7VnA9PPgOD8n7dnCODeFiaNXOn8Mn4KpmAi/vZ6Hapz4kndvpuYUUbtDZOjJJ/BUSPZAj96GKFR74rM0c8RYJIz5g+ODpuzNMhP3KNMkRnUSbCGXOElitQd+5chI6NRDu7RWJHgi5KhwxkXqQdq56QxLXJl3DvgSymDByA9eFJ1T2mOCyvU+iMc1OoFOVsnCQxB1y3mfFf8sRE19R+vM2nr6i0W1o0PnkqrIl0CvMk/8hvqetVRs0sG5zxwSXdfbUBXThAg6oPqzggPTno+ZBYQv2d1gIXBAXx49KwU0oFd9lKKEC6F+FfkPpvWuGUKE1tb/71vB9pTjdRFkKx2ybdPDQSclEc9XLLS4I2H95vt2Uzt3g79DnC1GutHJR7aSebmmhITttzjT4W1pJtymXOojTokhj1Yil5GTCrqpE1obDdVaWxLYUn+v/nweQdHqPsx0sclRJVsvMLIDu3LoFmStjCSNI4ky7gl4I9RZnpzo0ppoyYV9W9YzaRkpFSqTJ+MItn/Ebu38hTk/w2NS8e+vRg2YM1kxVrGksabMtgS4NL/bo8WVspUVFDyHGiSkOetiSl2YCTJPohMOq1sD2sINLJcqTIKdRO5oA+ZK2h/7eh6h915zha1p4aYpKD++fOvgFubcTLoqHMdWhcXvcqaOC4XjvkTh9wWrOG86QyYObO8Lohw4gz4XbocctvrdTzqB1U4IW57jog8qFqjpKw3SIM226vWoHP4Ye6HQ5o975mJSX9iPsxGYq3CtCr67hEK4JvSTIrr6BdAClJqlU93JhgCA9Z1qcRjW9tKrR0Mnf+5B4TbMh+vlcdC+D3hK/YKd5Fpn7WAc5n+6BCebkug14u6PwU641DfycPASVPWhKCw2yZnbfqVTLtROF9KY7HxFm59tS/PiaGw4dicNXCcdza4ZS7vfB1Ds7PmN9+qOlCqW2cNqj5HWR2IM4P5TZut8dybhlOl8Axp0Hc+QUBxq9eZQdbWuqsLM+SNV4iAIYpN2pIeN25gSbTh75iNO/WXB8bwxwDeSQcZNOHnUWnefdv23xjM8GNct3yyIDmMNcm7besI4vkzWY4DlrmjagVwz0Rw13Ugagu2W719YFmmUVbc+snx2kVNQ0HPoAfcc4E2LEzKJHDLzkHV7w8NSbldm53RUBTNOqLkkZk3ZMND5GUNAFc6Jk3nvDQjudfbrB8GNBFktydyV+thEdbW940t6bhp6JcO88UYqf3TJNZrDzEbI2jhz34LXbmR5bZKq6UkrmCOJJkzIkDm7XrJvciStdN4lcewZ4AR1v3LpaBRcyFe1z0V2INu5VUahcwJaYsV0Xp5Y5cdY9gLqqdylpcnFuXXa7MFFRNti/NrtOLjQLzGSSqejYktKj5ll2teddQFfZ9VZ72cgsJX8BskvFVWsihmsFzqdN/PizJ78jHRL00hfoGmagzpzJkZJercm+0Z+3eTf5DGNxJino+97301ndWCuHIpJzMucPWwdaR12OKlPJnsUJzJeh2ruCXrB/ZxGXoJQNDjrauH0EvTfVTiOapy6VQl07UVBpv8GK0Ujhpbzo8mU+QY/SHo5OWp50LfXuBDqGDLTxzyI6dN5VOwjSScuTrt/po9FQruHKSN1p7VO1ewEd04zUobvz3VzoFUs5hGk0+/jooxjlrUdu/MJs+7rHxZGZtiD17yQlDFT1WAW0NmjVVuRzqvKB2R7vhwlJgX8q9DtiqrmmlcN0B/h+0+w4ubkC9wjRWowPWHCuhQst6ZILPzEuzQJwvs3ECMkMC7aQcsOkEj+3WGk+3mV3T+7YLVAL+H7X3CD1o5D0KS4otUEfPG8thj+O0963eePxPUGb0bYqT9gNW4xK0nEkNLfta3GeM+5CW3F+TDknkivVftsZr1x9l+J8WnIqzvvDPns2YeuQEdFbz9xeIPAzErcvPZ4bX4nTea83CG5O9uWbnLxUqMud+AFJeZa+0vgUvFTKp2pfs+9/8O0beT/AqHBAvE5sbOgKAZKWhdzzxvCpUGiPe19doBVTl2DtEt9OYqijyiDZH0N4nhrgX6RCfC/J9j0DFqRP1WzJJ+Aqn+g+RFvxSSDByFjCZoFq35sZEec9aAV69rILZdIRhDl21vpDATjc9x+eAVkzwLchAA8m6Q2qKoQ3D8BuDPF6IezOfdueQNkKu67MXTRX0CHGQZsSNIztSgIkMlYKB0iXtOFkU8e+F44dH2w1CnNOgf7ZdtLV4KDjS5UszArV1ZG24/BZLRsEbI0d9xqTDwW6asZ3qyJ9xwgiE+2aHkmgjUN+PaxLyUyT06DB0YJOVNjv7ONe5rDjvVPxs4ZeRQdx2vel6uG5eIQjBxgGL7XuBXRNmHUfykMdMzX02/1bX7X1vYGuedlXAzyZ6fZxyDWY9PnSaMd5w/8vPmP4kQNeDg1476BrgP/kOjv1wgCfC3Un7UG0XK/q3ULVQ+JjOUS/14DvmWIkcDMWszYZajEaJB7i+crDJKexAA5m66s4H7v1YUg/ZjBJN3j1QN43T3p8pwQdtoUi/l8OfQJ2cNANKhAWKbukbtCalPBoTNcoQCfe7Uao69QeUeqrEYMNzlre8Py9JKIuDnQLSRkl+Ib99lFqqtGBbrCJFPx8SNtIpkzdNfzIaH2SUYLOnDyQIt3eNjDHpqcm/3KYTqZ5Jtg0WY3ZDxk16A7gA3mZEqW4tzz8YGrtGWwL9lWC7gi+jIV/DAcSFidcSG4gwSsVdocfntHUFJeyjhcFOgMIHL6PAz2Cl/GjEfT2Dp/tINuuJAsriktvXHzRoDdoALhcZqDqQJadH6+qX/1Vga7xuOlwoCaq8BKXPA/Ohv4vwABbxyjywICeBQAAAABJRU5ErkJggg==",
+    "titulo":"¿Qué dispositivos cubrimos en caso de robo?",
+    "slides":[{
+        "id":1,
+        "src": "tablet.png",
+        "alt": "tablet",
+        "texto":"Tablets"
+    },{
+        "id":2,
+        "src": "camara.png",
+        "alt": "camara",
+        "texto":"Cámaras de fotos digitales"
+    },{
+        "id":3,
+        "src": "notebook.png",
+        "alt": "notebook",
+        "texto":"Notebook o Netbook"
+    },{
+        "id":4,
+        "src": "smartwatch.png",
+        "alt": "smartwatch",
+        "texto":"Smart-watch"
+    },{
+        "id":5,
+        "src": "auriculares.png",
+        "alt": "auriculares",
+        "texto":"Auriculares y Parlantes con bluetooth"
+    },{
+        "id":6,
+        "src": "consola.png",
+        "alt": "consola",
+        "texto":"Consolas de Video Juegos o reproductores de audio multimedia o Ipod"
+    }],
+    "listPosition":"text-left",
+    "hasUsarSeguro": true
+}, {
+    "id": 1,
+    "alt": "remove",
+    "img": "remove.png",
+    "changeColor": true,
+    "titulo": "Tené en cuenta lo que NO cubre tu póliza",
+    "lista": [{
+        "id": 0,
+        "texto": "&#x25CF;&nbsp;&nbsp;Hurto, es decir pérdida o extravío de tus aparatos tecnológicos."
+    },{
+        "id": 1,
+        "texto": "&#x25CF;&nbsp;&nbsp;Teléfonos celulares."
+    }]
+}]

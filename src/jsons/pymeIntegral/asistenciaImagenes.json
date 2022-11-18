@@ -1,0 +1,249 @@
+[{
+    "id":0,
+    "children": [
+        {
+            "id": 0,
+            "alt": "Electricidad",
+            "switch":[
+                {
+                    "id":0,
+                    "img":"electricidadOff.png"
+                },
+                {
+                    "id":1,
+                    "img":"electricidad.png"
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "alt": "Plomería",
+            "switch":[
+                {
+                    "id":0,
+                    "img":"plomeria.png"
+                },
+                {
+                    "id":1,
+                    "img":"plomeriaOn.png"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "alt": "Cerrajería",
+            "switch":[
+                {
+                    "id":0,
+                    "img":"cerrajeria.png"
+                },
+                {
+                    "id":1,
+                    "img":"cerrajeriaOn.png"
+                }
+            ]
+        },
+        {
+            "id":3,
+            "alt": "Cristalería",
+            "switch":[
+                {
+                    "id":0,
+                    "img":"vidrieria.png"
+                },
+                {
+                    "id":1,
+                    "img":"vidrieriaOn.png"
+                }
+            ]
+        }
+    ]
+},
+{
+    "id":1,
+    "children": [
+        {
+            "id": 0,
+            "alt": "Lámparas",
+            "switch":[
+                {
+                    "id":0,
+                    "img":"electricidadOff.png"
+                },
+                {
+                    "id":1,
+                    "img":"electricidad.png"
+                }
+            ]
+        },
+        {
+            "id":1,
+            "alt": "Plomería",
+            "switch":[
+                {
+                    "id":0,
+                    "img":"plomeria.png"
+                },
+                {
+                    "id":1,
+                    "img":"plomeriaOn.png"
+                }
+            ]
+        },
+        {
+            "id":2,
+            "alt": "Cerrajería",
+            "switch":[
+                {
+                    "id":0,
+                    "img":"cerrajeria.png"
+                },
+                {
+                    "id":1,
+                    "img":"cerrajeriaOn.png"
+                }
+            ]
+        },
+        {
+            "id":3,
+            "alt": "Vidriería",
+            "switch":[
+                {
+                    "id":0,
+                    "img":"vidrieria.png"
+                },
+                {
+                    "id":1,
+                    "img":"vidrieriaOn.png"
+                }
+            ]
+        }
+    ]
+},
+{
+    "id":2,
+    "children": [
+        {
+            "id":0,
+            "alt": "Muebles",
+            "switch":[
+                {
+                    "id":0,
+                    "img":"muebles.png"
+                },
+                {
+                    "id":1,
+                    "img":"mueblesOn.png"
+                }
+            ]
+        },
+        {
+            "id":1,
+            "alt": "Computadora",
+            "switch":[
+                {
+                    "id":0,
+                    "img":"brokenPcOff.png"
+                },
+                {
+                    "id":1,
+                    "img":"brokenPcOn.png"
+                }
+            ]
+        },
+        {
+            "id":2,
+            "alt": "Equipo electrógeno",
+            "switch":[
+                {
+                    "id":0,
+                    "img":"electricidadOff.png"
+                },
+                {
+                    "id":1,
+                    "img":"electricidad.png"
+                }
+            ]
+        }
+    ]
+},
+{
+    "id":3,
+    "children": [
+        {
+            "id":0,
+            "alt": "Equipos de frío/calor",
+            "switch":[
+                {
+                    "id":0,
+                    "img":"aire_0.png"
+                },
+                {
+                    "id":1,
+                    "img":"aire_1.png"
+                }
+            ]
+        },
+        {
+            "id":1,
+            "alt": "Estufas y cocinas",
+            "switch":[
+                {
+                    "id":0,
+                    "img":"estufas_0.png"
+                },
+                {
+                    "id":1,
+                    "img":"estufas_1.png"
+                }
+            ]
+        },
+        {
+            "id":2,
+            "alt": "Mantenimiento de grupo electrógeno",
+            "switch":[
+                {
+                    "id":0,
+                    "img":"electricidadOff.png"
+                },
+                {
+                    "id":1,
+                    "img":"electricidad.png"
+                }
+            ]
+        },
+        {
+            "id":3,
+            "alt": "Matafuegos",
+            "switch":[
+                {
+                    "id":0,
+                    "img":"destapaciones.png"
+                },
+                {
+                    "id":1,
+                    "img":"destapacionesOn.png"
+                }
+            ]
+        }
+    ]
+},
+{
+    "id":4,
+    "children": [
+        {
+            "id":0,
+            "alt": "Telefonicamente",
+            "switch":[
+                {
+                    "id":0,
+                    "img":"operadorOff.png"
+                },
+                {
+                    "id":1,
+                    "img":"operadorOn.png"
+                }
+            ]
+        }
+    ]
+}]

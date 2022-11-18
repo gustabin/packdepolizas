@@ -1,0 +1,7 @@
+{
+    "has":"texto",
+    "hr": true,
+    "goTo":".seguros",
+    "hasPreventipsConjunto": false,
+    "hasCobrar": true
+}

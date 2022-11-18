@@ -1,0 +1,7 @@
+{
+    "alt": "Persona mirando el celular",
+    "className":"object-cover position-top-1",
+    "desktopClassName": "bg-none bg-bottom",
+    "img": "personaCelular.jpg",
+    "imgDesktop": "personaCelularDesktop.jpg"
+}

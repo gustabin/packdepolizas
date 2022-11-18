@@ -1,0 +1,264 @@
+[{
+        "id": 0,
+        "children": [{
+                "id": 0,
+                "alt": "Electricidad",
+                "switch": [{
+                        "id": 0,
+                        "img": "electricidadOff.png"
+                    },
+                    {
+                        "id": 1,
+                        "img": "electricidad.png"
+                    }
+                ]
+            },
+            {
+                "id": 1,
+                "alt": "Gas",
+                "switch": [{
+                        "id": 0,
+                        "img": "gas.png"
+                    },
+                    {
+                        "id": 1,
+                        "img": "gasOn.png"
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "alt": "Plomería",
+                "switch": [{
+                        "id": 0,
+                        "img": "plomeria.png"
+                    },
+                    {
+                        "id": 1,
+                        "img": "plomeriaOn.png"
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "alt": "Destapaciones",
+                "switch": [{
+                        "id": 0,
+                        "img": "destapaciones.png"
+                    },
+                    {
+                        "id": 1,
+                        "img": "destapacionesOn.png"
+                    }
+                ]
+            },
+            {
+                "id": 4,
+                "alt": "Cerrajería",
+                "switch": [{
+                        "id": 0,
+                        "img": "cerrajeria.png"
+                    },
+                    {
+                        "id": 1,
+                        "img": "cerrajeriaOn.png"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "children": [{
+                "id": 0,
+                "alt": "Electricidad",
+                "switch": [{
+                        "id": 0,
+                        "img": "electricidadOff.png"
+                    },
+                    {
+                        "id": 1,
+                        "img": "electricidad.png"
+                    }
+                ]
+            },
+            {
+                "id": 1,
+                "alt": "Plomería",
+                "switch": [{
+                        "id": 0,
+                        "img": "plomeria.png"
+                    },
+                    {
+                        "id": 1,
+                        "img": "plomeriaOn.png"
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "alt": "Cerrajería",
+                "switch": [{
+                        "id": 0,
+                        "img": "cerrajeria.png"
+                    },
+                    {
+                        "id": 1,
+                        "img": "cerrajeriaOn.png"
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "alt": "Gas",
+                "switch": [{
+                        "id": 0,
+                        "img": "gas.png"
+                    },
+                    {
+                        "id": 1,
+                        "img": "gasOn.png"
+                    }
+                ]
+            },
+            {
+                "id": 4,
+                "alt": "Vidrería y Herrería",
+                "switch": [{
+                        "id": 0,
+                        "img": "vidrieria.png"
+                    },
+                    {
+                        "id": 1,
+                        "img": "vidrieriaOn.png"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "children": [{
+                "id": 0,
+                "alt": "Equipos frío calor",
+                "switch": [{
+                        "id": 0,
+                        "img": "aire_0.png"
+                    },
+                    {
+                        "id": 1,
+                        "img": "aire_1.png"
+                    }
+                ]
+            },
+            {
+                "id": 1,
+                "alt": "Estufas",
+                "switch": [{
+                        "id": 0,
+                        "img": "estufas_0.png"
+                    },
+                    {
+                        "id": 1,
+                        "img": "estufas_1.png"
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "alt": "Poda de árboles",
+                "switch": [{
+                        "id": 0,
+                        "img": "poda_0.png"
+                    },
+                    {
+                        "id": 1,
+                        "img": "poda_1.png"
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "alt": "Limpieza de canaletas",
+                "switch": [{
+                        "id": 0,
+                        "img": "canaletas_0.png"
+                    },
+                    {
+                        "id": 1,
+                        "img": "canaletas_1.png"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "children": [{
+                "id": 0,
+                "alt": "Seguridad y Vigilancia",
+                "switch": [{
+                        "id": 0,
+                        "img": "seguridad.png"
+                    },
+                    {
+                        "id": 1,
+                        "img": "seguridadOn.png"
+                    }
+                ]
+            },
+            {
+                "id": 1,
+                "alt": "Guarda de muebles",
+                "switch": [{
+                        "id": 0,
+                        "img": "muebles.png"
+                    },
+                    {
+                        "id": 1,
+                        "img": "mueblesOn.png"
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "alt": "Hospedaje",
+                "switch": [{
+                        "id": 0,
+                        "img": "hospedaje.png"
+                    },
+                    {
+                        "id": 1,
+                        "img": "hospedajeOn.png"
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "alt": "Lavandería",
+                "switch": [{
+                        "id": 0,
+                        "img": "lavanderia.png"
+                    },
+                    {
+                        "id": 1,
+                        "img": "lavanderiaOn.png"
+                    }
+                ]
+            },
+            {
+                "id": 4,
+                "alt": "Restaurante",
+                "switch": [{
+                        "id": 0,
+                        "img": "restaurante.png"
+                    },
+                    {
+                        "id": 1,
+                        "img": "restauranteOn.png"
+                    }
+                ]
+            }
+        ]
+    }
+]

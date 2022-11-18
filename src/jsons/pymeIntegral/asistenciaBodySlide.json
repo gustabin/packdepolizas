@@ -1,0 +1,75 @@
+[
+    {
+        "id": 0,
+        "children": [
+            {
+                "texto": "¿Sin luz en el negocio? Llamanos y arreglamos la falla en las instalaciones eléctricas."
+            },
+            {
+                "texto": "Si se rompió una cañería, llave u otra instalación fija de agua a la vista, te vamos a ayudar a repararlo."
+            },
+            {
+                "texto": "Si se rompió la cerradura o perdiste las llaves, ¡no te vas a quedar afuera ni encerrado!"
+            },
+            {
+                "texto": "Te cubrimos la rotura de vidrios (verticales) que formen parte del cerramiento de tu negocio."
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "children": [
+            {
+                "texto": "Cambios de lámparas (comunes o dicroicas), porta lámparas, llaves de luz y toma de enchufes."
+            },
+            {
+                "texto": "Reemplazar cueritos de las canillas, vástagos, depósito de inodoro y obturador."
+            },
+            {
+                "texto": "Apertura de puertas y cerraduras de tu comercio."
+            },
+            {
+                "texto": "Reponer vidrios verticales internos."
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "children": [
+            {
+                "texto": "Traslado, guarda y custodia de muebles"
+            },
+            {
+                "texto": "Alquiler de pc y accesorios"
+            },
+            {
+                "texto": "Alquiler de si te quedaste sin suministro eléctrico"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "children": [
+            {
+                "texto": "Equipos de frío/calor. Cobertura de hasta $4.000"
+            },
+            {
+                "texto": "Estufas y cocinas. Cobertura de hasta $4.000"
+            },
+            {
+                "texto": "Mantenimiento de grupo electrógeno. Cobertura de hasta $3.500"
+            },
+            {
+                "texto": "Matafuegos. Revisión y carga, tope $3.500"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "children": [
+            {
+                "texto": "Telefónicamente con profesionales en temas legales y contables relacionados con tu negocio. Disponés de hasta 5 asesoramientos anuales."
+            }
+        ]
+    }
+]

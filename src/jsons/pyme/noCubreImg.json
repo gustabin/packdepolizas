@@ -1,0 +1,22 @@
+[
+  {
+    "alt": "Agarra",
+    "imgOn": "./assets/takeOn.png",
+    "imgOff": "takeOff.png"
+  },
+  {
+    "alt": "Mesa",
+    "imgOn": "./assets/mesaBlueOk.png",
+    "imgOff": "./assets/mesaGrisOk.png"
+  },
+  {
+    "alt": "Llave",
+    "imgOn": "./assets/keyOn.png",
+    "imgOff": "./assets/keyOff.png"
+  },
+  {
+    "alt": "PC",
+    "imgOn": "./assets/brokenPcOn.png",
+    "imgOff": "./assets/brokenPcOff.png"
+  }
+]

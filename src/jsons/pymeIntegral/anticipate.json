@@ -1,0 +1,34 @@
+[
+  {
+    "id": 0,
+    "titulo": "Robos",
+    "lista": [
+      {
+        "id": 0,
+        "texto": "En lo posible, dejá siempre encendidas las luces de la fachada cuando el comercio permanezca cerrado."
+      },
+      {
+        "id": 1,
+        "texto": "Colocá la mercadería de mayor valor lo más lejos de la puerta de ingreso."
+      },
+      {
+        "id": 2,
+        "texto": "Si tenés que transportar dinero o mercancías de valor, intentá que cada viaje sea en días y horarios diferentes."
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "titulo": "Incendio",
+    "lista": [
+      {
+        "id": 0,
+        "texto": "Comunicales a tus empleados cómo deben actuar en caso de una emergencia y dónde pueden encontrar el matafuegos y el botiquín."
+      },
+      {
+        "id": 1,
+        "texto": "Mantené actualizado el inventario de los productos que tenés en tu comercio y hacé copias de seguridad regularmente. Así será más sencillo si tuvieras que calcular eventuales pérdidas."
+      }
+    ]
+  }
+]

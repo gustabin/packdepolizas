@@ -1,0 +1,264 @@
+[{
+    "id": 0,
+    "children": [{
+            "id": 0,
+            "alt": "Electricidad",
+            "switch": [{
+                    "id": 0,
+                    "img": ""
+                },
+                {
+                    "id": 1,
+                    "img": ""
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "alt": "Gas",
+            "switch": [{
+                    "id": 0,
+                    "img": ""
+                },
+                {
+                    "id": 1,
+                    "img": ""
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "alt": "Plomería",
+            "switch": [{
+                    "id": 0,
+                    "img": ""
+                },
+                {
+                    "id": 1,
+                    "img": ""
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "alt": "Destapaciones",
+            "switch": [{
+                    "id": 0,
+                    "img": ""
+                },
+                {
+                    "id": 1,
+                    "img": ""
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "alt": "Cerrajería",
+            "switch": [{
+                    "id": 0,
+                    "img": ""
+                },
+                {
+                    "id": 1,
+                    "img": ""
+                }
+            ]
+        }
+    ]
+},
+{
+    "id": 1,
+    "children": [{
+            "id": 0,
+            "alt": "Electricidad",
+            "switch": [{
+                    "id": 0,
+                    "img": ""
+                },
+                {
+                    "id": 1,
+                    "img": ""
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "alt": "Plomería",
+            "switch": [{
+                    "id": 0,
+                    "img": ""
+                },
+                {
+                    "id": 1,
+                    "img": ""
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "alt": "Cerrajería",
+            "switch": [{
+                    "id": 0,
+                    "img": ""
+                },
+                {
+                    "id": 1,
+                    "img": ""
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "alt": "Gas",
+            "switch": [{
+                    "id": 0,
+                    "img": ""
+                },
+                {
+                    "id": 1,
+                    "img": ""
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "alt": "Vidrería y Herrería",
+            "switch": [{
+                    "id": 0,
+                    "img": ""
+                },
+                {
+                    "id": 1,
+                    "img": ""
+                }
+            ]
+        }
+    ]
+},
+{
+    "id": 2,
+    "children": [{
+            "id": 0,
+            "alt": "Equipos frío calor",
+            "switch": [{
+                    "id": 0,
+                    "img": ""
+                },
+                {
+                    "id": 1,
+                    "img": ""
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "alt": "Estufas",
+            "switch": [{
+                    "id": 0,
+                    "img": ""
+                },
+                {
+                    "id": 1,
+                    "img": ""
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "alt": "Poda de árboles",
+            "switch": [{
+                    "id": 0,
+                    "img": ""
+                },
+                {
+                    "id": 1,
+                    "img": ""
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "alt": "Limpieza de canaletas",
+            "switch": [{
+                    "id": 0,
+                    "img": ""
+                },
+                {
+                    "id": 1,
+                    "img": ""
+                }
+            ]
+        }
+    ]
+},
+{
+    "id": 3,
+    "children": [{
+            "id": 0,
+            "alt": "Seguridad y Vigilancia",
+            "switch": [{
+                    "id": 0,
+                    "img": ""
+                },
+                {
+                    "id": 1,
+                    "img": ""
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "alt": "Guarda de muebles",
+            "switch": [{
+                    "id": 0,
+                    "img": ""
+                },
+                {
+                    "id": 1,
+                    "img": ""
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "alt": "Hospedaje",
+            "switch": [{
+                    "id": 0,
+                    "img": ""
+                },
+                {
+                    "id": 1,
+                    "img": ""
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "alt": "Lavandería",
+            "switch": [{
+                    "id": 0,
+                    "img": ""
+                },
+                {
+                    "id": 1,
+                    "img": ""
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "alt": "Restaurante",
+            "switch": [{
+                    "id": 0,
+                    "img": ""
+                },
+                {
+                    "id": 1,
+                    "img": ""
+                }
+            ]
+        }
+    ]
+}
+]

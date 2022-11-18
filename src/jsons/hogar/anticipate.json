@@ -1,0 +1,62 @@
+[
+  {
+    "id": 0,
+    "titulo": "Incendio",
+    "lista": [
+      {
+        "id": 0,
+        "texto": "No te olvides de tener siempre un matafuegos en tu casa, cargado y en regla."
+      },
+      {
+        "id": 1,
+        "texto": "No sobrecargues los enchufes."
+      },
+      {
+        "id": 2,
+        "texto": "Evitá almacenar los productos químicos o de limpieza en armarios sobre la cocina."
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "titulo": "Electricidad",
+    "lista": [
+      {
+        "id": 0,
+        "texto": "No uses artefactos eléctricos en ambientes húmedos o en contacto con el agua, como el baño o el lavadero."
+      },
+      {
+        "id": 1,
+        "texto": "Al desenchufarlos, no tires de los cables."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "titulo": "Robos",
+    "lista": [
+      {
+        "id": 0,
+        "texto": "Por más que estés en tu casa, cerrá la puerta con llave y dejala puesta en el picaporte."
+      },
+      {
+        "id": 1,
+        "texto": "Para mayor tranquilidad, instalá una alarma en tu casa, cerrojos en las puertas y asegurá los ventanales."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "titulo": "Fenómenos Climatológicos",
+    "lista": [
+      {
+        "id": 0,
+        "texto": "Si se pronostica caída de granizo, bajá las persianas, recogé toldos y evitá salir de tu casa."
+      },
+      {
+        "id": 1,
+        "texto": "Ante una tormenta eléctrica, no te acerques a estructuras metálicas."
+      }
+    ]
+  }
+]

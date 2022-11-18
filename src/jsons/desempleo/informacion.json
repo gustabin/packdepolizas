@@ -1,0 +1,18 @@
+{
+    "titulo":"¡Con los ojos bien abiertos!",
+    "texto":"",
+    "lista": [
+        {
+            "id":0,
+            "texto":"Generalmente un ladrón intenta camuflarse en el tumulto y actúa aprovechándose de la distracción. Por eso es importante que estés bien atento en la calle, consciente de tu entorno."
+        },
+        {
+            "id":1,
+            "texto":"Te recomendamos que actives el bloqueo de pantalla de inicio de tu equipo, ya sea con una contraseña o bien tu huella digital."
+        },
+        {
+            "id":2,
+            "texto":"En tu celu seguro tenés información muy importante, por eso lo ideal es que hagas back-up de tus datos, almacenándolos en la nube o descargándolos a tu compu."
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+[{
+        "id": 0,
+        "title": "USAR EL SEGURO",
+        "path": "/home/cobrarSeguro",
+        "className": ".cobrar",
+        "hasFooter": true
+    },
+    {
+        "id": 1,
+        "title": "PREVENTIPS",
+        "path": "/home/informacion",
+        "className": ".informacion",
+        "hasFooter": true,
+        "toPreventips": true,
+        "cubreParent": true
+    },
+    {
+        "id": 2,
+        "title": "MÁS SEGUROS",
+        "path": "/home/cobrarSeguro/:id",
+        "className": ".seguros",
+        "param": "seguros",
+        "pathDesktop": "/home/seguros"
+    }
+]

@@ -1,0 +1,71 @@
+@import '../Vars.scss';
+
+.prevencion__main__header {
+  background-color: $fondoPrevencion;
+}
+
+.prevencion__main__header h2 {
+  @extend %basicText;
+}
+
+.main__info__div {
+  top: -2.25rem;
+}
+
+.info__modal {
+  border-radius: 2rem;
+}
+
+.info__modal__text h2 {
+  color: $polizaViolet;
+}
+
+.info__modal__text p {
+  color: $polizaGray;
+}
+
+.main__dato {
+  background-color: $fondoPrevencion;
+}
+
+.main__dato p {
+  @extend %basicText;
+}
+
+.main__preventips__anticipate {
+  display: grid;
+  grid-template-columns: 65% 35%;
+}
+
+.preventips__anticipate h3 {
+  font-weight: 800;
+  font-family: $font, Arial, Helvetica, sans-serif;
+}
+
+.preventips__anticipate p {
+  font-weight: 400;
+  font-family: $font, Arial, Helvetica, sans-serif;
+}
+
+.preventips__anticipate__button {
+  color: $button;
+  border-color: $button;
+  font-weight: 700;
+  font-family: $font, Arial, Helvetica, sans-serif;
+}
+
+.footer-noCubre .back__img {
+  transform: rotate(180deg) !important;
+}
+
+@media screen and (min-width: 1024px) and (max-height: 550px) {
+  .noCubre {
+    min-height: 80vh;
+  }
+}
+
+@media screen and (min-width: 1024px) and (min-height: 551px) and (max-height: 670px) {
+  .noCubre {
+    min-height: 60vh;
+  }
+}

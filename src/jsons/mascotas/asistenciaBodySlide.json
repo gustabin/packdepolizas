@@ -1,0 +1,39 @@
+[{
+        "id": 0,
+        "children": [{
+								"textos": [
+									"Transporte veterinario. Hasta $1.000 por evento (máximo 2 eventos al año)",
+									"Asistencia médica veterinaria. Hasta $1.000 por evento (máximo 3 eventos al año).",
+									"Compensación económica para análisis o estudios derivados de esta situación. Hasta $750 por evento (máximo 2 eventos al año)"
+								]
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "children": [{
+                "textos": [
+									"Vacunación. Hasta $1.000 por única vez tras cumplirse 90 días de contratada la cobertura.",
+									"Castración. Solo para hembras cuyo peso sea inferior a 10 kg. Hasta $1.500, tras cumplirse 180 días de contratada la cobertura.",
+									"Consulta veterinaria. Hasta $700, una vez al año.",
+									"Limpieza dental. Hasta $500, una vez al año, tras cumplirse 180 días de contratada la cobertura.",
+									"Aseo canino. Hasta $800, una vez al año, tras cumplirse 180 días de contratada la cobertura."
+									
+								]
+            }
+    
+        ]
+    },
+    {
+        "id": 2,
+        "children": [{
+                "textos":[
+									"Servicio de guardería. Hasta $500 por noche, con un máximo de 15 noches por evento (máximo 2 eventos al año).",
+									"Descuentos en alimentos y accesorios. Reintegro del 25% con tope de $250 (máximo 4 eventos al año)."
+									
+								] 
+            } 
+        ]
+    }
+    
+]

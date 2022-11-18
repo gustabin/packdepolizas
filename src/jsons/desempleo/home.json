@@ -1,0 +1,10 @@
+{
+    "imgPrincipal":"reunion.jpg",
+    "img":"seguroDesempleoWhite.png",
+    "altPrincipal":"Reunion",
+    "alt":"Seguro de Desempleo",
+    "texto":"No te soltamos",
+    "texto2":"la mano",
+    "className":"object-top",
+    "key": "desempleo"
+}

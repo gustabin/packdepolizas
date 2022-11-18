@@ -1,0 +1,9 @@
+{
+    "className":"object-cover object-right",
+    "texto":"Mas prevenís, menos pagás",
+    "alt": "personaLeyendo",
+    "img":"personasPantalla.jpg",
+    "imgDesktop": "personasPantalla.jpg",
+    "imgSecondary":"personaLeyendo.jpg",
+    "imgDesktopSecondary":"personaLeyendoDesktop.jpg"
+}

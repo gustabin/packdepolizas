@@ -1,0 +1,24 @@
+{
+    "title": "Asistencias útiles para tu mascota",
+		"linkConoce": "https://www.galiciaseguros.com.ar/segurosparatupyme/condicionesintegralpyme",
+		"mascotas": true,
+    "body": [{
+            "id": 0,
+            "titulo": "Urgencias",
+            "subtitulo": "URGENCIAS",
+            "children": 4
+        },
+        {
+            "id": 1,
+            "titulo": "Cuidados e Higiene",
+            "subtitulo": "CUIDADOS E HIGIENE",
+            "children": 4
+        },
+        {
+            "id": 2,
+            "titulo": "Descuentos y Beneficios",
+            "subtitulo": "DESCUENTOS Y BENEFICIOS",
+            "children": 3
+        }
+    ]
+}

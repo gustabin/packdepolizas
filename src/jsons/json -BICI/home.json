@@ -1,0 +1,10 @@
+{
+  "imgPrincipal": "biciHome.jpg",
+  "img": "seguroBiciWhite.png",
+  "altPrincipal": "Bici",
+  "alt": "Seguro de Robo de Bici",
+  "texto": "",
+  "texto2": "¡Pedaleá sin preocupaciones, tu bici está protegida!",
+  "className": "object-center",
+  "key": "bici"
+}

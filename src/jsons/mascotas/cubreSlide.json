@@ -1,0 +1,43 @@
+[{
+		"id": 0,
+		"alt": "Gastos",
+		"img": "Gastos x accidente.png",
+		"titulo": "Gastos veterinarios por accidente"
+	},
+	{
+		"id": 1,
+		"alt": "Responsabilidad Civil",
+		"img": "Responsabilidad Civil.png",
+		"titulo": "Responsabilidad Civil en caso de demandas"
+	},
+	{
+		"id": 2,
+		"alt": "Gastos por sacrificio y fallecimiento",
+		"img": "Gatos x fallecimiento.png",
+		"titulo": "Gastos por sacrificio y fallecimiento"
+
+	},
+	{
+		"id": 3,
+		"alt": "Indemnización por robo de tu mascota",
+		"img": "Indemnizacion x robo.png",
+		"titulo": "Indemnización por robo de tu mascota"
+
+	},
+	{
+		"id": 4,
+		"alt": "Gastos por extravío",
+		"img": "Gatos x extravio.png",
+		"titulo": "Gastos por extravío"
+
+
+	},
+	{
+		"id": 5,
+		"alt": "Servicios y asistencias para tu mascota",
+		"img": "Servicios y asistencias.png",
+		"titulo": "Servicios y asistencias para tu mascota",
+		"conoceMas": true
+
+	}
+]

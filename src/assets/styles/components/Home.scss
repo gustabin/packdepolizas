@@ -1,0 +1,20 @@
+.home__img {
+  height: 50vh;
+}
+
+.home__arrow-img {
+  transform: rotate(-90deg);
+}
+
+.home__seguro-header_bottom-mascotas {
+  --bottom: -4.7rem;
+}
+
+.home__seguro-header_bottom-default {
+  --bottom: -5.6rem;
+}
+
+.home__seguro-header {
+  bottom: var(--bottom);
+  right: 0;
+}

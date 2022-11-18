@@ -1,0 +1,32 @@
+{
+    "title": "Te asistimos, siempre.",
+    "linkConoce": "https://www.galiciaseguros.com.ar/segurosparatupyme/condicionesintegralpyme",
+    "body": [{
+            "id": 0,
+            "titulo": "Emergencias",
+            "subtitulo": "Contás con 3 prestaciones de cada uno, con un tope de $4.000 por evento. ¡Solicitalo las 24 hs los 365 días del año!",
+            "children": 4
+        }, {
+            "id": 1,
+            "titulo": "Asistencia Handyman",
+            "subtitulo": "Contás con 2 servicios anuales, con un tope de $4.000 c/uno y una garantía de 3 meses. Usalos para:",
+            "children": 4
+        },
+        {
+            "id": 2,
+            "titulo": "Eventos extremos",
+            "subtitulo": "Si tu comercio quedó seriamente dañado y no están garantizadas las condiciones de seguridad en él, contás con un tope de $5000 para usar en lo que quieras:",
+            "children": 3
+        },
+        {
+            "id": 3,
+            "titulo": "Revisión preventiva",
+            "children": 4
+        },
+        {
+            "id": 4,
+            "titulo": "Asesoramiento especializado",
+            "children": 1
+        }
+    ]
+}

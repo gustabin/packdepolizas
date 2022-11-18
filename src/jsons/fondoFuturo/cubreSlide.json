@@ -1,0 +1,53 @@
+[{
+    "id":0,
+    "alt":"Cobertura",
+		"img":"Cobertura.png",
+		"titulo":"Cobertura",
+    "texto":"Los aportes que hagas los vamos a invertir. Así se generará un fondo acumulado del cual vas a disponer, al llegar a la edad de retiro que elegiste, en forma de renta vitalicia o bien accediendo a la totalidad del mismo."
+},
+{
+    "id":1,
+    "alt":"Calendario",
+		"img":"TuFondo.png",
+		"titulo":"Tu fondo",
+    "texto":"Verás reflejado año a año la evolución de tu fondo de acuerdo al rendimiento obtenido por la compañía."
+},
+{
+	"id":2,
+    "alt":"Fondo Mínimo Garantizado",
+		"img":"FondoMinGarantizado.png",
+		"titulo":"Fondo mínimo garantizado",
+    "texto":"Es el fondo mínimo que te aseguramos obtener durante la vigencia de la póliza capitalizando tus fondos al valor de la Tasa Técnica establecida por ley y es la que ves reflejada en la proyección que te mostramos"
+
+},
+{
+	"id":3,
+    "alt":"Fondo Estimado",
+		"img":"FondoEstimado.png",
+		"titulo":"Fondo estimado",
+    "texto":"Es la estimación del fondo acumulado que podrás obtener de acuerdo a los rendimientos reales obtenidos por la compañía."
+
+},
+{
+	"id":4,
+    "alt":"Beneficio Fiscal",
+		"img":"Beneficio_Fiscal.png",
+		"titulo":"Beneficio fiscal",
+    "texto":"Podés descontar tu seguro de la base imponible del Impuesto a las Ganancias, que se deduce al cierre del año fiscal."
+
+},
+{
+	"id":5,
+    "alt":"Aportes y rescates de Fondos",
+		"img":"fondos.png",
+		"titulo":"Aportes y rescates de fondos",
+		"conoceMas": true
+
+}
+]
+
+
+
+
+
+

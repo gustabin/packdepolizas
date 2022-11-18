@@ -1,0 +1,40 @@
+@media screen and (max-height: 550px) and (max-width: 1024px) {
+  .menu__titulo {
+    background-color: rgba($color: black, $alpha: 0.05);
+  }
+
+  .main__body,
+  .main__footer {
+    top: -8rem;
+  }
+
+  .menu__last__titulo {
+    font-size: 1.25rem;
+  }
+
+  .section__header__titulo__last {
+    font-size: 1rem;
+  }
+
+  .wrapper__last-li {
+    font-size: 0.75rem;
+  }
+
+  .wrapper__last-li div a {
+    font-size: 0.75rem;
+  }
+
+  //contacto
+  .contacto h1 {
+    font-size: 1.7rem;
+  }
+
+  //footer
+  .footer-text-left {
+    width: 50%;
+  }
+
+  .footer-text-right {
+    width: 50%;
+  }
+}

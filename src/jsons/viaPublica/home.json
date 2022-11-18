@@ -1,0 +1,10 @@
+{
+    "imgPrincipal":"tren.jpg",
+    "img":"seguroViaPublicaWhite.png",
+    "altPrincipal":"Persona Hora",
+    "alt":"Robo en Via Publica",
+    "texto":"En la calle",
+    "texto2":"siempre seguro.",
+    "className":"object-center",
+    "key": "viaPublica"
+}

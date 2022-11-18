@@ -1,0 +1,24 @@
+{
+  "collapse": true,
+  "lista": [
+    {
+      "id": 0,
+      "titulo": "Hábitos saludables",
+      "multipleTexts": [{
+        "id": 1,
+        "texto": "Lo mejor para tener una vida plena y saludable es acercarse al tan famoso equilibrio 'físico-emocional'."
+      }, {
+        "id": 2,
+        "texto": "En el aspecto físico es muy importante que sigas una dieta equilibrada y que se adapte a lo que tu cuerpo necesita. Lo mismo ocurre con el ejercicio. Elegí una actividad que te guste e intentá practicarla con continuidad."
+      },
+      {
+        "id": 3,
+        "texto": "Sabemos que es difícil evitar el estrés en estos tiempos, pero todo lo que puedas contribuir en reducirlo tu cuerpo te lo va a agradecer."
+      },
+      {
+        "id": 4,
+        "texto": "Lo más importante de todo: reíte, disfrutá y compartí valiosos momentos con las personas que te hacen bien. ¡La vida es una sola y vale la pena vivirla!"
+      }]
+    }
+  ]
+}

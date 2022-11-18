@@ -1,0 +1,11 @@
+{
+    "goTo": ".noCubre",
+    "alt":"Persona Concentrada",
+    "texto":"¿Qué te cubrimos?",
+    "imgPrincipal":"personaConcentrada.jpg",
+    "imgDesktop":"personaConcentradaDesktop.jpg",
+    "hasLast": true,
+    "orangeText1": "El seguro",
+    "orangeText2": "lo armás vos.",
+    "bold": true
+}

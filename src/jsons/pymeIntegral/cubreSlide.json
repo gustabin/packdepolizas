@@ -1,0 +1,52 @@
+[{
+        "id": 0,
+        "alt": "Fuego Caja",
+        "img": "fuegoCaja.png",
+        "titulo": "Incendio",
+        "texto": "Incendio del mobiliario y mercadería. Además cubrimos remoción de escombros y daño por granizo."
+    },
+    {
+        "id": 1,
+        "alt": "Robo",
+        "img": "menuRobo.png",
+        "titulo": "Robo y cristales",
+        "texto": "Robo de tus bienes y mercadería o gastos ocasionados por robo. También cubrimos los cristales verticales."
+    }, {
+        "id": 2,
+        "alt": "PC",
+        "img": "pc.png",
+        "titulo": "Equipos electrónicos",
+        "texto": "Equipos electrónicos cubiertos por robo, incendio o accidente."
+    }, {
+        "id": 3,
+        "alt": "Indemnizacion",
+        "img": "Indemnizacion.png",
+        "titulo": "Asistencias para tu negocio 24 hs",
+        "texto": "Contás con profesionales para darte una mano con los imprevistos en tu negocio.",
+        "conoceMas": true
+    }, {
+        "id": 4,
+        "alt": "Asistir",
+        "img": "menuAsistir.png",
+        "titulo": "Demandas de terceros",
+        "texto": "Demandas de terceros Responsabilidad Civil por daños."
+    },{
+        "id": 5,
+        "textLast": "Sumás las coberturas que necesites:",
+        "linkOneLine": true,
+        "rarePadding": true,
+        "last": [{
+            "id": 0,
+            "texto": "Incendio de la construcción del inmueble"
+        }, {
+            "id": 1,
+            "texto": "Daños por agua a la mercadería y mobiliario."
+        }, {
+            "id": 2,
+            "texto": "Cobertura de robo para la recaudación."
+        }, {
+            "id": 3,
+            "texto": "Responsabilidad civil para marquesinas, ascensores o alimentos"
+        }]
+    }
+]

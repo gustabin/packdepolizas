@@ -1,0 +1,366 @@
+@media screen and (min-width: 1024px) {
+  .lg\:text-dark-blue {
+    color: $footerBlue;
+  }
+
+  .lg\:h-18 {
+    height: 4.5rem;
+  }
+
+  .lg\:h-40vh {
+    min-height: 40vh;
+  }
+
+  //Home
+  .home__img {
+    height: 80vh;
+  }
+
+  .home__button-arrow {
+    bottom: 1rem;
+  }
+
+  .home__seguro-header {
+    bottom: -7.4rem;
+  }
+
+  .home__bottom-parent {
+    margin-left: 28rem;
+  }
+
+  .home__linea {
+    bottom: 7.2rem;
+    background-color: $text-dark-gray;
+    margin-left: 27rem;
+  }
+
+  .swiper-container-h {
+    min-height: 105vh;
+  }
+
+  //Cubre
+  .menu {
+    background-color: white;
+  }
+
+  .menu__main {
+    top: -35vh;
+  }
+
+  .main__body {
+    margin-top: 100px;
+  }
+
+  .lg\:montserrat-b {
+    @include montserrat-b;
+  }
+
+  .lg\:rounded-xl {
+    border-radius: 2rem;
+  }
+
+  .lg\:h-2\/5 {
+    height: 25%;
+  }
+
+  .vBar {
+    width: 2px;
+  }
+
+  .slide__last-desktop-orange {
+    top: -1.7rem;
+    left: -2rem;
+    background-color: rgb(255, 103, 27);
+  }
+
+  .menu__last__titulo-desktop {
+    line-height: 1.2rem;
+  }
+
+  .menu__last__titulo-desktop span {
+    font-weight: 700;
+    font-family: $font, Arial, Helvetica, sans-serif;
+  }
+
+  /* No cubre */
+  .gradient__gray {
+    background-image: linear-gradient(180deg, $fondo-dark-gray, white);
+  }
+
+  .lg\:h-screen-1 {
+    min-height: 105vh;
+  }
+
+  .asistencias {
+    min-height: 60vh;
+  }
+
+  .prevencion__header-desktop::before {
+    content: "";
+    display: inline-block;
+    height: 1px;
+    width: 33.33333333%;
+    border-style: solid;
+    border-top-width: 2px;
+    border-color: #4a5568;
+  }
+
+  .prevencion__main__header,
+  .main__dato {
+    background-color: inherit !important;
+  }
+
+  .info__modal {
+    border-radius: 0;
+  }
+
+  .lg\:red-color {
+    color: $button !important;
+  }
+
+  .button__desktop-footer {
+    background-color: $orangePrevencion2;
+  }
+
+  //Prevencion
+  .orangePrevencion {
+    background:
+      linear-gradient(
+        to right,
+        #faa32b 50%,
+        transparent
+      );
+  }
+
+  .main__preventips__anticipate {
+    display: inline;
+  }
+
+  .lg\:h-25vh {
+    height: 25vh;
+  }
+
+  .lg\:h-20vh {
+    height: 20vh;
+  }
+
+  .lg\:h-14vh {
+    min-height: 14vh;
+  }
+
+  .lg\:h-30vh {
+    height: 30vh;
+  }
+
+  .lg\:h-45vh {
+    height: 45vh;
+  }
+
+  .lg\:h-80vh {
+    min-height: 80vh;
+  }
+
+  .lg\:flotante {
+    top: auto;
+    bottom: -2rem;
+  }
+
+  .lg\:text-dark-gray {
+    color: $text-dark-gray;
+  }
+
+  .prevencion .bg-lineas-diagonales {
+    width: 115%;
+  }
+
+  .anticipate__collapse {
+    display: grid;
+    grid-template-columns: 50% 50%;
+  }
+
+  .arrowAnticipate {
+    transform: rotate(-90deg);
+  }
+
+  @keyframes spin {
+    from {
+      transform: rotate(-90deg);
+    }
+
+    to {
+      transform: rotate(0deg);
+    }
+  }
+
+  @keyframes spinClose {
+    from {
+      transform: rotate(0deg);
+    }
+
+    to {
+      transform: rotate(-90deg);
+    }
+  }
+
+  //asistencia
+  .info {
+    background-color: white;
+  }
+
+  .info .tip {
+    height: auto;
+  }
+
+  .info h2 {
+    font-size: 1rem;
+  }
+
+  .info__child {
+    background-color: white;
+  }
+
+  .info .info__header__linea {
+    top: 1.9rem;
+  }
+
+  .info__separador-desktop {
+    height: 0.15rem;
+  }
+
+  .info .linea {
+    border-color: white;
+    border-width: 2px;
+  }
+
+  .info .info__header {
+    bottom: auto;
+  }
+
+  .info .info__swiper__numero {
+    color: rgb(245, 245, 245);
+  }
+
+  .info .cuadrado {
+    background: #800000;
+  }
+
+  .swiper-pagination-asistencia {
+    align-items: flex-start !important;
+  }
+
+  .swiper-pagination-asistencia span {
+    margin-bottom: 0.5rem;
+  }
+
+  .info .swiper-pagination-bullet {
+    width: auto;
+    height: auto;
+    display: flex;
+    align-items: center;
+    border-radius: initial;
+    background: transparent;
+    opacity: 1;
+  }
+
+  :root {
+    --swiper-theme-color: transparent;
+  }
+
+  .div-tapar {
+    width: 100%;
+    height: 100%;
+    background-color: white;
+    z-index: 10;
+  }
+
+	.div-tapar-mascota {
+		width: 40%;
+    height: 100%;
+    background-color: white;
+    z-index: 10;
+	}
+
+  .info__swiper-hr {
+    left: -50rem;
+    width: 80vw;
+  }
+
+  //contacto
+  .bg__lineas-dekstop {
+    width: 100%;
+    bottom: -1rem;
+    background-color: transparent;
+  }
+
+  .contacto .bg-lineas {
+    background: repeating-linear-gradient(90deg, transparent 9px, transparent 12px, #faa32b 1px, #faa32b 15px);
+    height: 1.1rem;
+  }
+
+  .contacto .num {
+    font-size: 1rem;
+  }
+
+  .contacto h1 {
+    font-size: 1.5em;
+  }
+
+  .opciones__contacto {
+    top: 0;
+  }
+
+  //footer
+  .lg\:footer__header {
+    background-color: rgb(238, 240, 241);
+  }
+
+  //header
+
+  .lg\:opacity-85 {
+    opacity: 0.85;
+  }
+
+  .lg\:mt-10vh {
+    margin-top: 10vh;
+  }
+
+  .lg\:95vh {
+    min-height: 95vh;
+  }
+
+  .lg\:80vh {
+    min-height: 80vh;
+  }
+
+  .lg\:60vh {
+    min-height: 60vh;
+  }
+
+  .lg\:min-h-auto {
+    min-height: auto;
+  }
+
+  .lg\:115vh {
+    min-height: 115vh;
+  }
+
+  //cobrar
+  .cobrar {
+    min-height: 70vh;
+  }
+
+  //seguros
+  .seguros {
+    min-height: 70vh;
+  }
+
+  //informacion
+  .informacion {
+    min-height: 70vh;
+  }
+
+  //teneEnCuenta
+  .lg\:min-h-8 {
+    min-height: 8rem;
+  }
+}

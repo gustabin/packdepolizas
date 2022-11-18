@@ -1,0 +1,190 @@
+[
+  {
+    "id": 0,
+    "children": [
+      {
+        "id": 0,
+        "alt": "Cerrajería",
+        "switch": [
+          {
+            "id": 0,
+            "img": "./assets/cerrajeria.png"
+          },
+          {
+            "id": 1,
+            "img": "./assets/cerrajeriaOn.png"
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "alt": "Plomería",
+        "switch": [
+          {
+            "id": 0,
+            "img": "./assets/plomeria.png"
+          },
+          {
+            "id": 1,
+            "img": "./assets/plomeriaOn.png"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "alt": "Electricidad",
+        "switch": [
+          {
+            "id": 0,
+            "img": "./assets/electricidadOff.png"
+          },
+          {
+            "id": 1,
+            "img": "./assets/electricidad.png"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "alt": "Vidriería",
+        "switch": [
+          {
+            "id": 0,
+            "img": "./assets/brokenGlassCircleOff.png"
+          },
+          {
+            "id": 1,
+            "img": "./assets/brokenGlassCircleOn.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "children": [
+      {
+        "id": 0,
+        "alt": "Lámparas",
+        "switch": [
+          {
+            "id": 0,
+            "img": "./assets/electricidadOff.png"
+          },
+          {
+            "id": 1,
+            "img": "./assets/electricidad.png"
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "alt": "Plomería",
+        "switch": [
+          {
+            "id": 0,
+            "img": "./assets/plomeria.png"
+          },
+          {
+            "id": 1,
+            "img": "./assets/plomeriaOn.png"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "alt": "Cerrajería",
+        "switch": [
+          {
+            "id": 0,
+            "img": "./assets/cerrajeria.png"
+          },
+          {
+            "id": 1,
+            "img": "./assets/cerrajeriaOn.png"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "alt": "Vidriería",
+        "switch": [
+          {
+            "id": 0,
+            "img": "./assets/brokenGlassCircleOff.png"
+          },
+          {
+            "id": 1,
+            "img": "./assets/brokenGlassCircleOn.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "children": [
+      {
+        "id": 0,
+        "alt": "Seguridad y Vigilancia",
+        "switch": [
+          {
+            "id": 0,
+            "img": "./assets/seguridad.png"
+          },
+          {
+            "id": 1,
+            "img": "./assets/seguridadOn.png"
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "alt": "Prestaciones especiales",
+        "switch": [
+          {
+            "id": 0,
+            "img": "./assets/muebles.png"
+          },
+          {
+            "id": 1,
+            "img": "./assets/mueblesOn.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "children": [
+      {
+        "id": 0,
+        "alt": "Telefonicamente",
+        "switch": [
+          {
+            "id": 0,
+            "img": "./assets/operadorOff.png"
+          },
+          {
+            "id": 1,
+            "img": "./assets/operadorOn.png"
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "alt": "Whatsapp",
+        "switch": [
+          {
+            "id": 0,
+            "img": "./assets/whatsappOff.png"
+          },
+          {
+            "id": 1,
+            "img": "./assets/whatsappOn.png"
+          }
+        ]
+      }
+    ]
+  }
+]

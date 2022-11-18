@@ -1,0 +1,7 @@
+{
+    "imgPrincipal":"celularMano.jpg",
+    "imgDesktop": "celularManoDesktop.jpg",
+    "alt":"Mirando celular",
+    "texto":"¿Qué te cubre?",
+    "className":"object-cover object-top"
+}

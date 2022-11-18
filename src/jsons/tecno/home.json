@@ -1,0 +1,10 @@
+{
+    "imgPrincipal":"tecno-home.jpg",
+    "img":"seguroTecnoWhite.png",
+    "altPrincipal":"Persona Sentada",
+    "alt":"Protección Tecno Portátil",
+    "texto":"Disfrutá tus dispositivos",
+    "texto2":"sin preocuparte",
+    "className":"object-center",
+    "key": "tecno"
+}

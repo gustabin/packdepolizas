@@ -1,0 +1,14 @@
+[{
+        "id": 0,
+        "alt": "familia",
+        "img": "familiaParaguas.png",
+        "texto": "Tu familia o las personas que designes, van a acceder a una indemnización económica en caso de que fallezcas producto de un accidente."
+    },
+    {
+        "id": 1,
+        "alt": "calendario",
+        "img": "calender.png",
+        "titulo": "¿El monto de mi cobertura se actualiza?",
+        "texto": "Sí. Se actualiza mediante la Cláusula de Ajuste Anual por Salario Mínimo Vital y Móvil."
+    }
+]

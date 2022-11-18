@@ -1,0 +1,26 @@
+[{
+        "id": 0,
+        "alt": "Indemnizacion",
+        "img": "Indemnizacion.png",
+        "texto": "Tu familia o las personas que designes, van a acceder a una indemnización económica en caso de que fallezcas producto de un <span class='montserrat-m'>accidente</span>."
+    },
+    {
+        "id": 1,
+        "alt": "Silla de Ruedas",
+        "img": "Silla de ruedas.png",
+        "texto": "También vas a estar cubierto si sufrís una <span class='montserrat-m'>invalidez total o parcial permanente</span> a causa del incidente."
+    },
+    {
+        "id": 2,
+        "alt": "muleta",
+        "img": "Muletas.png",
+        "texto": "Si el accidente llegara a ocasionarte una <span class='montserrat-m'>incapacidad temporal</span>, podrás acceder a una suma que te ayudará a afrontar los gastos que puedan surgir."
+    },
+    {
+        "id": 3,
+        "alt": "calendario",
+        "img": "calender.png",
+        "titulo": "¿El monto de mi cobertura se actualiza?",
+        "texto": "Sí. Se actualiza mediante la Cláusula de Ajuste Anual por Salario Mínimo Vital y Móvil."
+    }
+]

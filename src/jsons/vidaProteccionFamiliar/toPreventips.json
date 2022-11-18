@@ -1,0 +1,21 @@
+{
+  "texto": [
+    {
+      "id": 0,
+      "oracion": "a"
+    },
+    {
+      "id": 1,
+      "oracion": "b"
+    },
+    {
+      "id": 2,
+      "oracion": "c"
+    },
+    {
+      "id": 3,
+      "oracion": "d"
+    }
+  ],
+  "small": "text-sm"
+}

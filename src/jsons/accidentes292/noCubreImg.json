@@ -1,0 +1,17 @@
+[{
+    "alt": "pesos",
+    "imgOn": "pesosBlue.png",
+    "imgOff": "pesosM.png"
+}, {
+    "alt": "lluvia",
+    "imgOn": "lluviaBlue.png",
+    "imgOff": "lluviaM.png"
+}, {
+    "alt": "mesa",
+    "imgOn": "mesaBlueOk.png",
+    "imgOff": "mesaGrisOk.png"
+}, {
+    "alt": "paraguas",
+    "imgOn": "paraguasBlue.png",
+    "imgOff": "paraguasM.png"
+}]

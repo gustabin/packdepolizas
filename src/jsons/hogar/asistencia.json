@@ -1,0 +1,27 @@
+{
+    "body": [{
+            "id": 0,
+            "titulo": "EMERGENCIAS DOMICILIARIAS",
+            "subtitulo": "Tenés 3 servicios anuales disponibles durante las 24 hs. Con hasta $6.000 en mano de obra y $1.100 en repuestos por evento.",
+            "children": 5
+        },
+        {
+            "id": 1,
+            "titulo": "ASISTENCIA HANDYMAN",
+            "subtitulo": "Tenés 2 servicios anuales con un tope de $1800 y garantía de 3 meses.",
+            "children": 5
+        },
+        {
+            "id": 2,
+            "titulo": "PREVENTIVAS",
+            "subtitulo": "Servicios programados que podés pedir una vez al año por cada rubro, con una antelación mínima de 10 días y con un tope de $1800.",
+            "children": 4
+        },
+        {
+            "id": 3,
+            "titulo": "SERVICIOS ESPECIALES",
+            "subtitulo": "Servicios si tu casa queda inhabitable por incendio, rayo o explosión.",
+            "children": 5
+        }
+    ]
+}

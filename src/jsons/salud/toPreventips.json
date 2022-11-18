@@ -1,0 +1,18 @@
+{
+    "texto":[
+        {
+            "id":0,
+            "oracion":"Te ofrecemos un"
+        },
+        {
+            "id":1,
+            "bold":true,
+            "oracion":"descuento preferencial"
+        },
+        {
+            "id":2,
+            "oracion":"si contas con alguna de estas medidas de seguridad"
+        }
+    ],
+    "small":"text-sm"
+}

@@ -1,0 +1,7 @@
+.menu__desplegado-desktop {
+    max-width: 0;
+    overflow: hidden;
+    transition: max-width 0.2s ease-out;
+    top: 3.5rem;
+    background-color: rgba($color: white, $alpha: 0.9);
+}

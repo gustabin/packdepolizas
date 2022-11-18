@@ -1,0 +1,7 @@
+{
+    "alt":"Chica Mirando",
+    "texto":"¿Qué te cubrimos?",
+    "className":"object-cover object-top",
+    "imgPrincipal": "chicaMirando.jpg",
+    "imgDesktop": "chicaMirandoDesktop.jpg"
+}

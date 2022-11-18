@@ -1,0 +1,74 @@
+[{
+        "id": 0,
+        "children": [{
+                "texto": "Si se te corta la luz por un problema con las instalaciones eléctricas, te lo solucionamos."
+            },
+            {
+                "texto": "Reparamos la pérdida de gas por rotura de cañería o instalaciones fijas a la vista."
+            },
+            {
+                "texto": "Usalo si se rompe un caño, llaves o alguna otra instalación fija a la vista que genere una pérdida de agua en tu casa."
+            },
+            {
+                "texto": "Te ayudamos si se obstruyó un desagüe interno o sifón de piletas, lavatorio e inodoro."
+            },
+            {
+                "texto": "Resolvemos la urgencia para que puedas entrar o salir de tu casa, si se rompió la cerradura o extraviaste las llaves."
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "children": [{
+                "texto": "Verificación y extensión de cableado domiciliario, colocación de disyuntores, luminaria y artefactos eléctricos."
+            },
+            {
+                "texto": "Cambio de cueritos, canillas, vástagos y depósitos de baños."
+            },
+            {
+                "texto": "Apertura de puertas de acceso alternativas y cerraduras de puertas internas de los ambientes de tu casa."
+            },
+            {
+                "texto": "Revisión o instalación de tu cocina o estufas, destapaciones de pilotos o cambio de llaves en caso de pérdidas."
+            },
+            {
+                "texto": "Cambio de cerradura del ventanal, correa de tus cortinas de madera o rieles en la base. Colocación de rejas y verificación de la seguridad."
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "children": [{
+                "texto": "Limpieza de unidad interior y medición de presión y consumo eléctrico."
+            },
+            {
+                "texto": "Podés pedir la revisión de la instalación de la estufa y la limpieza de los picos."
+            },
+            {
+                "texto": "Es para árboles de hasta 5 mts de altura y que se encuentren dentro de tu propiedad."
+            },
+            {
+                "texto": "Hasta 4 mts de altura."
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "children": [{
+                "texto": "Disponés de este servicio una vez al año durante un período máximo de 72 hs"
+            },
+            {
+                "texto": "Te cubrimos los gastos derivados de la guarda de tus muebles hasta $1.500, en un evento anual."
+            },
+            {
+                "texto": "Solicitá alojamiento para 5 personas que vivan en tu casa, con un límite de $2.000 diarios por hasta 3 días."
+            },
+            {
+                "texto": "¿Tu ropa se vio afectada por el siniestro? Nos hacemos cargo del gasto del lavado por un valor máximo de $1.000 y hasta una vez al año."
+            },
+            {
+                "texto": "Ponemos a disposición un servicio de catering para los habitantes de tu casa por hasta $1.200 por evento, con un máximo de 3 eventos al año."
+            }
+        ]
+    }
+]

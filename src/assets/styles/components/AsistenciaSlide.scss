@@ -1,0 +1,31 @@
+.info .tip {
+    height: 90%;
+}
+
+.info h3 {
+    color: #ac1f2d;
+}
+
+.info .tip p,
+.info .tip ul li {
+    font-size: 11pt !important;
+}
+
+.info__footer__buttons {
+    height: 5.5rem;
+}
+
+.info .swiper-slide {
+    width: 100% !important;
+    height: auto;
+    border-radius: 2rem;
+}
+
+.info .linea {
+    border-color: orange;
+    border-width: 3px;
+}
+
+.info .cuadrado {
+    background: linear-gradient(to right, #800000 0%, #ff0000 100%);
+}

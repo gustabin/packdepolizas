@@ -1,0 +1,20 @@
+[
+  {
+    "id": 0,
+    "titulo": "Robos",
+    "lista": [
+      {
+        "id": 0,
+        "texto": "¡Con los ojos bien abiertos!"
+      },
+      {
+        "id": 1,
+        "texto": "Te recomendamos que actives el bloqueo de pantalla de inicio de tu equipo, ya sea con una contraseña o bien con tu huella digital."
+      },
+      {
+        "id": 2,
+        "texto": "En tu celu seguro tenés información muy importante, por eso lo ideal es que hagas back-up de tus datos regularmente, almacenándolos en la nube o descargándolos a tu compu."
+      }
+    ]
+  }
+]

@@ -1,0 +1,21 @@
+{
+    "hasCobrar": true,
+    "collapse": true,
+    "lista": [
+        {
+            "id":0,
+            "titulo": "En transporte público",
+            "texto":"Siempre que viajes en transporte público, asegurate que el vehículo (colectivo, tren, taxi, remise, etc.) esté debidamente habilitado por la autoridad competente."
+        },
+        {
+            "id":1,
+            "titulo": "En auto",
+            "texto":"Si, en cambio, te trasladás en tu auto es importante que lo tengas en buen estado, que le realices los mantenimientos correspondientes para garantizar tu seguridad y la de los pasajeros. Recordá respetar las normas de tránsito y lo más importante: ¡si bebiste, no conduzcas!"
+        },
+        {
+            "id":2,
+            "titulo": "En la calle",
+            "texto":"Todos somos peatones en determinados momentos del día, así que es importante que nos manejemos adecuadamente en la vía pública. "
+        }
+    ]
+}

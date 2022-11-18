@@ -1,0 +1,25 @@
+[{
+        "id": 0,
+        "alt": "Ladron",
+        "img": "menuRobo.png",
+        "titulo": "Robo"
+        // "texto": "Si te roban la bici, tenés disponible una suma asegurada para reponerla."
+    },
+    {
+        "id": 1,
+        "alt": "Bici",
+        "img": "menuBicicleta.png",
+        "titulo": "¿Dónde estás cubierto?",
+        "texto": "Con tu seguro estás cubierto las 24 hs a lo largo y ancho del país. Así que solo preocupate por elegir tu recorrido y…¡a rodar y despejar!",
+        "hasUsarSeguro": true
+    }, 
+    {
+        "id": 2,
+        "alt": "remove",
+        "img": "remove.png",
+        "changeColor": true,
+        "titulo": "Tené en cuenta lo que NO cubre tu póliza",
+        "texto": "El hurto, pérdida o extravío no están alcanzados por esta cobertura.",
+        "texto2": "&#x25CF;&nbsp;&nbsp;Robo de los accesorios de la bici (no cubre casco, candado, etc)."
+    }
+]

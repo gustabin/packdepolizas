@@ -1,0 +1,46 @@
+.swiper-container-baby {
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+  overflow: hidden;
+  list-style: none;
+  padding: 0;
+  z-index: 1;
+}
+
+.swiper-button-prev-baby,
+.swiper-button-next-baby {
+  color: #4a5568 !important;
+  position: absolute;
+  top: 50%;
+  width: calc(44px / 44 * 27);
+  width: calc(var(--swiper-navigation-size) / 44 * 27);
+  height: 44px;
+  height: var(--swiper-navigation-size);
+  margin-top: calc(-1 * 44px / 2);
+  margin-top: calc(-1 * var(--swiper-navigation-size) / 2);
+  z-index: 10;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.swiper-button-next-baby {
+  right: 10px;
+  left: auto;
+}
+
+.swiper-button-prev-baby::after,
+.swiper-button-next-baby::after {
+  font-family: swiper-icons;
+  font-size: 1.75rem;
+}
+
+.cubre-baby-swiper .swiper-button-next-baby::after {
+  content: 'next';
+}
+
+.cubre-baby-swiper .swiper-button-prev-baby::after {
+  content: 'prev';
+}

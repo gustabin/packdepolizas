@@ -1,0 +1,6 @@
+{
+    "alt": "Persona con Tarjeta",
+    "className":"object-cover position-top-1",
+    "img": "personaTarjeta.jpg",
+    "imgDesktop": "personaTarjetaDesktop.jpg"
+}

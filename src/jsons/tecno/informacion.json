@@ -1,0 +1,18 @@
+{
+    "hasCobrar": true,
+    "collapse": true,
+    "lista": [{
+        "id": 0,
+        "titulo": "Robos",
+        "multipleTexts": [{
+            "id": 1,
+            "texto": "Ponele una contraseña a tu tablet, notebook o netbook. De esta manera, vas a evitar que la información que contenga caiga en manos equivocadas."
+        }, {
+            "id": 2,
+            "texto": "Hacé back-ups frecuentemente de la info que tenés en tus dispositivos."
+        }, {
+            "id": 3,
+            "texto": "Si vas a sacar algún objeto de valor, recordá hacerlo en un lugar cerrado y no en plena calle."
+        }]
+    }]
+}

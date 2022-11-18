@@ -1,0 +1,9 @@
+{
+    "alt":"Colocando una Moneda",
+    "texto":"¿En qué consiste?",
+    "className":"object-cover object-top",
+    "imgPrincipal":"EnQueConsiste.png",
+    "imgDesktop": "EnQueConsiste.png",
+    "classNameDesktop": "object-right",
+		"fondoFuturo": true
+}
