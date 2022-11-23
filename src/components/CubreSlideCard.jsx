@@ -5,7 +5,7 @@ import CubreBabySwiper from "./CubreBabySwiper";
 const CubreSlideCard = ({ dataRow, extraData }) => {
   if (dataRow.alt == "Robo") {
     dataRow.texto =
-      "Si te roban la bici, tenés disponible una suma asegurada para reponerla.";
+      "Robo de los bienes y mercaderías o gastos ocasionados por el siniestro. ¡Tus cristales verticales están cubiertos!";
   }
   if (dataRow.alt == "Bici") {
     dataRow.texto =

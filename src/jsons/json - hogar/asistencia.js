@@ -4,8 +4,8 @@ export const asistencia = [
     titulo: "EMERGENCIAS DOMICILIARIAS",
     subtitulo: "",
     children: 4,
-    textoBottom:
-      "* Tenés 3 servicios anuales disponibles durante las 24 hs. Con hasta $6.000 en mano de obra y $1.100 en repuestos por evento.",
+    subtitulo:
+      "Tenés 3 servicios anuales disponibles durante las 24 hs. Con hasta $6.000 en mano de obra y $1.100 en repuestos por evento.",
   },
   {
     id: 1,

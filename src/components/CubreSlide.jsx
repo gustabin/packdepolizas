@@ -349,7 +349,8 @@ class CubreSlide extends React.Component {
                         href="tel:08005559998"
                         className="truncate hover:underline"
                       >
-                        0800 555 9998
+                        Contáctanos al <br></br>0800 555 9998 <br></br>de Lunes
+                        a Viernes <br></br>de 9 a 19 hs
                       </a>
                     </div>
                   </li>

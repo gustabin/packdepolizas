@@ -143,7 +143,8 @@ export const pymeIntegral = [
     alt: "PC",
     img: "pc.png",
     titulo: "Equipos electrónicos",
-    texto: "Equipos electrónicos cubiertos por robo, incendio o accidente.",
+    texto:
+      "Cobertura en caso de incendio, robo, accidentes o daños por tensión. <p>&nbsp</p><p> <b style= 'font-weight:bold; color:#000'> Responsabilidad civil</b> </p> Demandas de terceros por daños.",
   },
   {
     id: 3,
@@ -151,7 +152,7 @@ export const pymeIntegral = [
     img: "Indemnizacion.png",
     titulo: "Asistencias para tu negocio 24 hs",
     texto:
-      "Contás con profesionales para darte una mano con los imprevistos en tu negocio.",
+      "Contás con los mejores profesionales para darte una mano por cualquier imprevisto que surja en tu negocio.",
     conoceMas: true,
   },
   // {
@@ -215,7 +216,7 @@ export const hogar = [
     id: 3,
     alt: "campana",
     img: "menuAsistir.png",
-    titulo: "Asistencias para tu casa",
+    titulo: "Asistencias",
     texto:
       "¡Dejá tu casa en buenas manos! Ahora contás con una amplia red de profesionales, que te ayudarán cuando más lo necesites simplificando tu día a día.",
     conoceMas: true,

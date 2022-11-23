@@ -1,11 +1,11 @@
 export const asistencia = [
   {
     id: 0,
-    titulo: "EMERGENCIAS",
-    subtitulo:
-      "Te brindamos hasta $40.000 de tope anual sin límite de eventos para utilizar en cualquiera de los siguientes servicios, con un tope por evento de $6.000 que incluye mano de obra y hasta $1.000 de materiales.",
+    titulo: "EMERGENCIAS DOMICILIARIAS",
+    subtitulo: "",
     children: 4,
-    textoBottom: "",
+    subtitulo:
+      "Tenés 3 servicios anuales disponibles durante las 24 hs. Con hasta $6.000 en mano de obra y $1.100 en repuestos por evento.",
   },
   {
     id: 1,
@@ -13,7 +13,8 @@ export const asistencia = [
     subtitulo:
       "Siempre hay cosas que se pueden romper o que querés cambiar. Para esas situaciones, contás con 2 servicios anuales, con un tope de $1.200 cada uno y una garantía de 3 meses. Usalos para:",
     children: 4,
-    textoBottom: "",
+    textoBottom:
+      "* Hasta tres prestaciones de cada uno, con un tope de $1.500 por evento. Podés solicitarlo los 365 días del año.",
   },
   {
     id: 2,

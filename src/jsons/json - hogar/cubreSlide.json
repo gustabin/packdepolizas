@@ -1,49 +1,61 @@
-[{
-    "id":0,
-    "alt":"fuego",
+[
+  {
+    "id": 0,
+    "alt": "fuego",
     "img": "menuFuego.png",
-    "titulo":"El incendio de tu casa y tus cosas",
-    "texto":"Las pérdidas causadas por el fuego, rayo o explosión. Además, también te cubrimos los daños producidos por terremoto, granizo y fuertes vientos."
-},
-{
-    "id":1,
-    "alt":"ladron",
+    "titulo": "El incendio de tu casa y tus cosas",
+    "texto": "Las pérdidas causadas por el fuego, rayo o explosión. Además, también te cubrimos los daños producidos por terremoto, granizo y fuertes vientos."
+  },
+  {
+    "id": 1,
+    "alt": "ladron",
     "img": "menuRobo.png",
-    "titulo":"Robo y hurto",
-    "texto":"Si te roban los bienes que aseguraste y además si a causa de este hecho se dañan los mobiliarios."
-},{
+    "titulo": "Robo y hurto",
+    "texto": "Si te roban los bienes que aseguraste y además si a causa de este hecho se dañan los mobiliarios."
+  },
+  {
     "id": 2,
-    "alt":"billetera",
+    "alt": "billetera",
     "img": "menuGastos.png",
     "titulo": "Gastos derivados del siniestro y cristales",
     "texto": "Gastos de alojamiento, remoción de escombros y otros servicios. También te cubrimos los cristales verticales."
-},{
+  },
+  {
     "id": 3,
-    "alt":"campana",
+    "alt": "campana",
     "img": "menuAsistir.png",
     "titulo": "Asistencias para tu casa",
     "texto": "Contás con profesionales para hacer tu vida más fácil y darte una mano en el día a día.",
     "conoceMas": true
-},{
-    "id":4,
-    "textLast":"Agregá lo que no puede faltarte.",
-    "last":[{
-        "id":0,
-        "texto":"Objetos especifícos"
-    },{
-        "id":1,
-        "texto":"Grupos electrógenos"
-    },{
-        "id":2,
-        "texto":"Bicicleta"
-    },{
-        "id":3,
-        "texto":"Mascotas"
-    },{
-        "id":4,
-        "texto":"Accidentes Personales para Personal Doméstico"
-    },{
-        "id":5,
-        "texto":"Palos de Golf"
-    }]
-}]
+  },
+  {
+    "id": 4,
+    "textLast": "Agregá lo que no puede faltarte.",
+    "last": [
+      {
+        "id": 0,
+        "texto": "Objetos especifícos"
+      },
+      {
+        "id": 1,
+        "texto": "Grupos electrógenos"
+      },
+      {
+        "id": 2,
+        "texto": "Bicicleta"
+      },
+      {
+        "id": 3,
+        "texto": "Mascotas"
+      },
+      {
+        "id": 4,
+        "texto": "Accidentes Personales para Personal Doméstico"
+      },
+      {
+        "id": 5,
+        "texto": "Palos de Golf"
+      }
+    ]
+  }
+]
